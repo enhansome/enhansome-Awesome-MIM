@@ -19,7 +19,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32239
+            "stars": 32236
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32239
+            "stars": 32236
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22190
+            "stars": 22189
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-01T21:36:15Z",
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12670
+            "stars": 12671
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7406
+            "stars": 7407
           }
         },
         {
@@ -271,7 +271,7 @@
             "last_commit": "2022-11-30T08:49:53Z",
             "owner": "SwinTransformer",
             "repo": "Feature-Distillation",
-            "stars": 263
+            "stars": 262
           }
         },
         {
@@ -821,7 +821,7 @@
             "last_commit": "2023-09-06T03:46:38Z",
             "owner": "megvii-research",
             "repo": "RevCol",
-            "stars": 265
+            "stars": 264
           }
         },
         {
@@ -991,7 +991,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22190
+            "stars": 22189
           }
         },
         {
@@ -1219,7 +1219,7 @@
             "last_commit": "2024-01-31T15:42:28Z",
             "owner": "openai",
             "repo": "DALL-E",
-            "stars": 10835
+            "stars": 10834
           }
         },
         {
@@ -1642,7 +1642,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7406
+            "stars": 7407
           }
         },
         {
@@ -2120,7 +2120,7 @@
             "last_commit": "2026-08-03T04:44:30Z",
             "owner": "Pointcept",
             "repo": "Pointcept",
-            "stars": 3179
+            "stars": 3182
           }
         },
         {
@@ -2370,7 +2370,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32239
+            "stars": 32236
           }
         },
         {
@@ -2384,7 +2384,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32239
+            "stars": 32236
           }
         },
         {
@@ -2398,7 +2398,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32239
+            "stars": 32236
           }
         },
         {
@@ -2412,7 +2412,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32239
+            "stars": 32236
           }
         },
         {
@@ -2860,7 +2860,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32239
+            "stars": 32236
           }
         },
         {
@@ -2874,7 +2874,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22190
+            "stars": 22189
           }
         },
         {
@@ -2899,7 +2899,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T12:15:47Z",
+            "last_commit": "2026-08-17T12:49:20Z",
             "owner": "lightly-ai",
             "repo": "lightly",
             "stars": 3793
@@ -2952,7 +2952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T16:34:49.169Z",
+    "last_updated": "2026-08-17T16:36:42.329Z",
     "original_repository": "Lupin1998/Awesome-MIM",
     "original_repository_sha": "70db16f0ad9939ba08d411635d78bafaa8bbfb5d",
     "enhanced_repository": "enhansome/enhansome-Awesome-MIM",
