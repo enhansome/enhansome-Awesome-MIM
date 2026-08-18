@@ -47,7 +47,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22189
+            "stars": 22190
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-01T21:36:15Z",
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12671
+            "stars": 12673
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7407
+            "stars": 7408
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2023-06-25T02:30:28Z",
             "owner": "open-mmlab",
             "repo": "mmselfsup",
-            "stars": 3302
+            "stars": 3301
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2024-08-01T14:49:48Z",
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2689
+            "stars": 2690
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2024-08-01T14:49:48Z",
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2689
+            "stars": 2690
           }
         },
         {
@@ -991,7 +991,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22189
+            "stars": 22190
           }
         },
         {
@@ -1205,7 +1205,7 @@
             "last_commit": "2024-05-11T19:18:10Z",
             "owner": "lucidrains",
             "repo": "DALLE2-pytorch",
-            "stars": 11306
+            "stars": 11307
           }
         },
         {
@@ -1247,7 +1247,7 @@
             "last_commit": "2023-05-29T09:07:41Z",
             "owner": "microsoft",
             "repo": "NUWA",
-            "stars": 2793
+            "stars": 2791
           }
         },
         {
@@ -1642,7 +1642,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7407
+            "stars": 7408
           }
         },
         {
@@ -1656,7 +1656,7 @@
             "last_commit": "2023-05-29T09:07:41Z",
             "owner": "microsoft",
             "repo": "NUWA",
-            "stars": 2793
+            "stars": 2791
           }
         },
         {
@@ -1670,7 +1670,7 @@
             "last_commit": "2023-05-29T09:07:41Z",
             "owner": "microsoft",
             "repo": "NUWA",
-            "stars": 2793
+            "stars": 2791
           }
         },
         {
@@ -1684,7 +1684,7 @@
             "last_commit": "2023-05-29T09:07:41Z",
             "owner": "microsoft",
             "repo": "NUWA",
-            "stars": 2793
+            "stars": 2791
           }
         },
         {
@@ -1768,7 +1768,7 @@
             "last_commit": "2024-05-05T21:06:49Z",
             "owner": "LinghaoChan",
             "repo": "HumanMAC",
-            "stars": 325
+            "stars": 326
           }
         },
         {
@@ -2162,7 +2162,7 @@
             "last_commit": "2025-03-31T12:22:57Z",
             "owner": "Pang-Yatian",
             "repo": "Point-MAE",
-            "stars": 636
+            "stars": 637
           }
         },
         {
@@ -2546,7 +2546,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-11T08:54:44Z",
+            "last_commit": "2026-08-18T11:32:47Z",
             "owner": "steineggerlab",
             "repo": "foldseek",
             "stars": 1281
@@ -2577,7 +2577,7 @@
             "last_commit": "2026-04-07T13:39:55Z",
             "owner": "nadavbra",
             "repo": "protein_bert",
-            "stars": 581
+            "stars": 582
           }
         },
         {
@@ -2812,7 +2812,7 @@
             "last_commit": "2024-07-10T14:48:42Z",
             "owner": "EdisonLeeeee",
             "repo": "Awesome-Masked-Autoencoders",
-            "stars": 868
+            "stars": 866
           }
         },
         {
@@ -2874,7 +2874,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22189
+            "stars": 22190
           }
         },
         {
@@ -2902,7 +2902,7 @@
             "last_commit": "2026-08-17T12:49:20Z",
             "owner": "lightly-ai",
             "repo": "lightly",
-            "stars": 3793
+            "stars": 3794
           }
         },
         {
@@ -2952,7 +2952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:36:42.329Z",
+    "last_updated": "2026-08-18T16:40:09.292Z",
     "original_repository": "Lupin1998/Awesome-MIM",
     "original_repository_sha": "70db16f0ad9939ba08d411635d78bafaa8bbfb5d",
     "enhanced_repository": "enhansome/enhansome-Awesome-MIM",
