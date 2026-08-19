@@ -2630,7 +2630,7 @@
                 "last_commit": "2024-02-07T03:31:38Z",
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4169
+                "stars": 4170
               }
             },
             {
@@ -2645,7 +2645,7 @@
                 "last_commit": "2024-02-07T03:31:38Z",
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4169
+                "stars": 4170
               }
             },
             {
@@ -2660,7 +2660,7 @@
                 "last_commit": "2024-02-07T03:31:38Z",
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4169
+                "stars": 4170
               }
             },
             {
@@ -2675,7 +2675,7 @@
                 "last_commit": "2024-02-07T03:31:38Z",
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4169
+                "stars": 4170
               }
             },
             {
@@ -2690,7 +2690,7 @@
                 "last_commit": "2024-02-07T03:31:38Z",
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4169
+                "stars": 4170
               }
             },
             {
@@ -3071,10 +3071,10 @@
                 "archived": false,
                 "id": 303705119,
                 "language": "Python",
-                "last_commit": "2026-08-18T20:40:57Z",
+                "last_commit": "2026-08-19T14:48:08Z",
                 "owner": "lightly-ai",
                 "repo": "lightly",
-                "stars": 3794
+                "stars": 3795
               }
             },
             {
@@ -3132,7 +3132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:12:17.088Z",
+    "last_updated": "2026-08-19T16:39:46.003Z",
     "original_repository": "Lupin1998/Awesome-MIM",
     "original_repository_id": 519575795,
     "original_repository_sha": "70db16f0ad9939ba08d411635d78bafaa8bbfb5d",
