@@ -94,7 +94,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**<br>
   *Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby*<br>
   ICLR'2021 \[[Paper](https://arxiv.org/abs/2010.11929)]
-  \[[Code](https://github.com/google-research/vision_transformer) ⭐ 12,673 | 🐛 139 | 🌐 Jupyter Notebook | 📅 2026-08-01]
+  \[[Code](https://github.com/google-research/vision_transformer) ⭐ 12,672 | 🐛 139 | 🌐 Jupyter Notebook | 📅 2026-08-01]
    <details close>
    <summary>ViT Framework</summary>
    <p align="center"><img width="75%" src="https://user-images.githubusercontent.com/44519745/204301490-5673cc4c-93d1-435d-a266-ec5a0294bf3b.png" /></p>
@@ -121,7 +121,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Improving Pixel-based MIM by Reducing Wasted Modeling Capability**<br>
   *Yuan Liu, Songyang Zhang, Jiacheng Chen, Zhaohui Yu, Kai Chen, Dahua Lin*<br>
   ICCV'2023 \[[Paper](https://arxiv.org/abs/2308.00261)]
-  \[[Code](https://github.com/open-mmlab/mmpretrain/tree/dev) ⭐ 3,849 | 🐛 272 | 🌐 Python | 📅 2024-11-01]
+  \[[Code](https://github.com/open-mmlab/mmpretrain/tree/dev) ⭐ 3,849 | 🐛 273 | 🌐 Python | 📅 2024-11-01]
    <details close>
    <summary>MFM Framework</summary>
    <p align="center"><img width="80%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44519745/263502915-4f9f94c8-3746-4745-80ab-a16e7eed2f5c.png" /></p>
@@ -130,7 +130,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling**<br>
   *Yuan Liu, Songyang Zhang, Jiacheng Chen, Kai Chen, Dahua Lin*<br>
   arXiv'2023 \[[Paper](https://arxiv.org/abs/2303.02416)]
-  \[[Code](https://github.com/open-mmlab/mmselfsup/tree/dev-1.x/configs/selfsup/pixmim) ⭐ 3,301 | 🐛 61 | 🌐 Python | 📅 2023-06-25]
+  \[[Code](https://github.com/open-mmlab/mmselfsup/tree/dev-1.x/configs/selfsup/pixmim) ⭐ 3,302 | 🐛 61 | 🌐 Python | 📅 2023-06-25]
    <details close>
    <summary>PixMIM Framework</summary>
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/44519745/236320141-75a1c36e-ab6e-4bbe-bc46-b94f91db1439.png" /></p>
@@ -791,7 +791,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling**<br>
   *Keyu Tian, Yi Jiang, Qishuai Diao, Chen Lin, Liwei Wang, Zehuan Yuan*<br>
   ICLR'2023 \[[Paper](https://arxiv.org/abs/2301.03580)]
-  \[[Code](https://github.com/keyu-tian/spark) ⭐ 1,376 | 🐛 16 | 🌐 Python | 📅 2024-01-23]
+  \[[Code](https://github.com/keyu-tian/spark) ⭐ 1,377 | 🐛 16 | 🌐 Python | 📅 2024-01-23]
    <details close>
    <summary>SparK Framework</summary>
    <p align="center"><img width="85%" src="https://user-images.githubusercontent.com/44519745/204315983-d5a24e55-fab4-4336-a1ed-3428a997aebd.png" /></p>
@@ -980,7 +980,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **MultiModal-GPT: A Vision and Language Model for Dialogue with Humans**<br>
   *Tao Gong, Chengqi Lyu, Shilong Zhang, Yudong Wang, Miao Zheng, Qian Zhao, Kuikun Liu, Wenwei Zhang, Ping Luo, Kai Chen*<br>
   arXiv'2023 \[[Paper](https://arxiv.org/abs/2305.04790)]
-  \[[Code](https://github.com/open-mmlab/Multimodal-GPT) ⭐ 1,512 | 🐛 22 | 🌐 Python | 📅 2023-06-04]
+  \[[Code](https://github.com/open-mmlab/Multimodal-GPT) ⭐ 1,511 | 🐛 22 | 🌐 Python | 📅 2023-06-04]
    <details close>
    <summary>MultiModal-GPT Framework</summary>
    <p align="center"><img width="75%" src="https://github.com/Lupin1998/Awesome-MIM/assets/44519745/a492f540-e287-4c2a-8879-7812cd2b2767" /></p>
@@ -1133,7 +1133,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis**<br>
   *Tianhong Li, Huiwen Chang, Shlok Kumar Mishra, Han Zhang, Dina Katabi, Dilip Krishnan*<br>
   CVPR'2023 \[[Paper](https://arxiv.org/abs/2211.09117)]
-  \[[Code](https://github.com/lth14/mage) ⭐ 581 | 🐛 37 | 🌐 Python | 📅 2023-03-10]
+  \[[Code](https://github.com/lth14/mage) ⭐ 582 | 🐛 37 | 🌐 Python | 📅 2023-03-10]
    <details close>
    <summary>MAGE Framework</summary>
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/44519745/224833197-6d95863c-cb83-4d9d-a900-b4f61baba785.png" /></p>
@@ -1164,7 +1164,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Vector-quantized Image Modeling with Improved VQGAN**<br>
   *Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu*<br>
   ICLR'2022 \[[Paper](https://arxiv.org/abs/2110.04627)]
-  \[[Code](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,307 | 🐛 73 | 🌐 Python | 📅 2024-05-11]
+  \[[Code](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,309 | 🐛 73 | 🌐 Python | 📅 2024-05-11]
    <details close>
    <summary>ViT-VQGAN Framework</summary>
    <p align="center"><img width="90%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44519745/260846200-0a7fd6e6-170a-435d-9f7b-a020bde64bc5.png" /></p>
@@ -1238,7 +1238,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **OneLLM: One Framework to Align All Modalities with Language**<br>
   *Jiaming Han, Kaixiong Gong, Yiyuan Zhang, Jiaqi Wang, Kaipeng Zhang, Dahua Lin, Yu Qiao, Peng Gao, Xiangyu Yue*<br>
   ArXiv'2023 \[[Paper](https://arxiv.org/abs/2312.03700)]
-  \[[Code](https://github.com/csuhan/OneLLM) ⭐ 667 | 🐛 20 | 🌐 Python | 📅 2024-10-22]
+  \[[Code](https://github.com/csuhan/OneLLM) ⭐ 666 | 🐛 20 | 🌐 Python | 📅 2024-10-22]
    <details close>
    <summary>OneLLM Framework</summary>
    <p align="center"><img width="85%" src="https://github.com/Lupin1998/Awesome-MIM/assets/44519745/88f210d7-2cba-456d-8ab2-3a807c153ea3" /></p>
@@ -1906,7 +1906,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**<br>
   *Haoyi Zhu, Honghui Yang, Xiaoyang Wu, Di Huang, Sha Zhang, Xianglong He, Tong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao, Wanli Ouyang*<br>
   ArXiv'2023 \[[Paper](https://arxiv.org/abs/2310.08586)]
-  \[[Code](https://github.com/Pointcept/Pointcept) ⭐ 3,184 | 🐛 362 | 🌐 Python | 📅 2026-08-03]
+  \[[Code](https://github.com/Pointcept/Pointcept) ⭐ 3,185 | 🐛 363 | 🌐 Python | 📅 2026-08-03]
 
 * **VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion**<br>
   *Yiming Li, Zhiding Yu, Christopher Choy, Chaowei Xiao, Jose M. Alvarez, Sanja Fidler, Chen Feng, Anima Anandkumar*<br>
@@ -2105,7 +2105,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Foldseek: fast and accurate protein structure search**<br>
   *Michel van Kempen, Stephanie S. Kim, Charlotte Tumescheit, Milot Mirdita, Johannes Söding, Martin Steinegger*<br>
   Nature'2023 \[[Paper](https://www.biorxiv.org/content/10.1101/2022.02.07.479398v2)]
-  \[[Code](https://github.com/steineggerlab/foldseek) ⭐ 1,281 | 🐛 190 | 🌐 C | 📅 2026-08-19]
+  \[[Code](https://github.com/steineggerlab/foldseek) ⭐ 1,281 | 🐛 188 | 🌐 C | 📅 2026-08-20]
 
 * **SaProt: Protein Language Modeling with Structure-aware Vocabulary**<br>
   *Jin Su, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan*<br>
@@ -2344,8 +2344,8 @@ If you find this repository and our survey helpful, please consider citing our p
 
 * [Fairseq](https://github.com/facebookresearch/fairseq) ⚠️ Archived: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 * [unilm](https://github.com/microsoft/unilm) ⭐ 22,192 | 🐛 683 | 🌐 Python | 📅 2026-01-23: Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
-* [MMPretrain](https://github.com/open-mmlab/mmpretrain) ⭐ 3,849 | 🐛 272 | 🌐 Python | 📅 2024-11-01: OpenMMLab self-supervised pre-training toolbox and benchmark.
-* [lightly](https://github.com/lightly-ai/lightly) ⭐ 3,795 | 🐛 100 | 🌐 Python | 📅 2026-08-19: A python library for self-supervised learning on images.
+* [MMPretrain](https://github.com/open-mmlab/mmpretrain) ⭐ 3,849 | 🐛 273 | 🌐 Python | 📅 2024-11-01: OpenMMLab self-supervised pre-training toolbox and benchmark.
+* [lightly](https://github.com/lightly-ai/lightly) ⭐ 3,795 | 🐛 98 | 🌐 Python | 📅 2026-08-19: A python library for self-supervised learning on images.
 * [VISSL](https://github.com/facebookresearch/vissl) ⚠️ Archived: FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 * [solo-learn](https://github.com/vturrisi/solo-learn) ⭐ 1,574 | 🐛 18 | 🌐 Python | 📅 2026-07-27: A library of self-supervised methods for visual representation learning powered by Pytorch Lightning.
 * [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15: CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark.
@@ -2354,4 +2354,4 @@ If you find this repository and our survey helpful, please consider citing our p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

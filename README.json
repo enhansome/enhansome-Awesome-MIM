@@ -17,7 +17,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32236
+                "stars": 32234
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32236
+                "stars": 32234
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12673
+                "stars": 12672
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2023-06-25T02:30:28Z",
                 "owner": "open-mmlab",
                 "repo": "mmselfsup",
-                "stars": 3301
+                "stars": 3302
               }
             },
             {
@@ -826,7 +826,7 @@
                 "last_commit": "2024-01-23T06:15:47Z",
                 "owner": "keyu-tian",
                 "repo": "SparK",
-                "stars": 1376
+                "stars": 1377
               }
             },
             {
@@ -1050,7 +1050,7 @@
                 "last_commit": "2023-06-04T01:42:37Z",
                 "owner": "open-mmlab",
                 "repo": "Multimodal-GPT",
-                "stars": 1512
+                "stars": 1511
               }
             },
             {
@@ -1199,7 +1199,7 @@
                 "last_commit": "2023-03-10T07:09:07Z",
                 "owner": "LTH14",
                 "repo": "mage",
-                "stars": 581
+                "stars": 582
               }
             },
             {
@@ -1266,7 +1266,7 @@
                 "last_commit": "2024-05-11T19:18:10Z",
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11307
+                "stars": 11309
               }
             },
             {
@@ -1416,7 +1416,7 @@
                 "last_commit": "2024-10-22T03:51:20Z",
                 "owner": "csuhan",
                 "repo": "OneLLM",
-                "stars": 667
+                "stars": 666
               }
             },
             {
@@ -2244,7 +2244,7 @@
                 "last_commit": "2026-08-03T04:44:30Z",
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3184
+                "stars": 3185
               }
             },
             {
@@ -2517,7 +2517,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32236
+            "stars": 32234
           }
         },
         {
@@ -2532,7 +2532,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32236
+            "stars": 32234
           }
         },
         {
@@ -2547,7 +2547,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32236
+            "stars": 32234
           }
         },
         {
@@ -2562,7 +2562,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32236
+            "stars": 32234
           }
         },
         {
@@ -2702,7 +2702,7 @@
                 "archived": false,
                 "id": 166769317,
                 "language": "C",
-                "last_commit": "2026-08-19T04:27:30Z",
+                "last_commit": "2026-08-20T04:12:59Z",
                 "owner": "steineggerlab",
                 "repo": "foldseek",
                 "stars": 1281
@@ -3029,7 +3029,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32236
+                "stars": 32234
               }
             },
             {
@@ -3071,7 +3071,7 @@
                 "archived": false,
                 "id": 303705119,
                 "language": "Python",
-                "last_commit": "2026-08-19T14:48:08Z",
+                "last_commit": "2026-08-19T18:33:19Z",
                 "owner": "lightly-ai",
                 "repo": "lightly",
                 "stars": 3795
@@ -3132,7 +3132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:39:46.003Z",
+    "last_updated": "2026-08-20T16:43:31.883Z",
     "original_repository": "Lupin1998/Awesome-MIM",
     "original_repository_id": 519575795,
     "original_repository_sha": "70db16f0ad9939ba08d411635d78bafaa8bbfb5d",
