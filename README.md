@@ -94,7 +94,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**<br>
   *Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby*<br>
   ICLR'2021 \[[Paper](https://arxiv.org/abs/2010.11929)]
-  \[[Code](https://github.com/google-research/vision_transformer) ⭐ 12,677 | 🐛 139 | 🌐 Jupyter Notebook | 📅 2026-08-01]
+  \[[Code](https://github.com/google-research/vision_transformer) ⭐ 12,678 | 🐛 139 | 🌐 Jupyter Notebook | 📅 2026-08-01]
    <details close>
    <summary>ViT Framework</summary>
    <p align="center"><img width="75%" src="https://user-images.githubusercontent.com/44519745/204301490-5673cc4c-93d1-435d-a266-ec5a0294bf3b.png" /></p>
@@ -139,7 +139,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **EVA: Exploring the Limits of Masked Visual Representation Learning at Scale**<br>
   *Yuxin Fang, Wen Wang, Binhui Xie, Quan Sun, Ledell Wu, Xinggang Wang, Tiejun Huang, Xinlong Wang, Yue Cao*<br>
   CVPR'2023 \[[Paper](https://arxiv.org/abs/2211.07636)]
-  \[[Code](https://github.com/baaivision/EVA) ⭐ 2,690 | 🐛 79 | 🌐 Python | 📅 2024-08-01]
+  \[[Code](https://github.com/baaivision/EVA) ⭐ 2,691 | 🐛 79 | 🌐 Python | 📅 2024-08-01]
    <details close>
    <summary>EVA Framework</summary>
    <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/44519745/206920442-4d896aca-1765-4e66-9afb-c76017bc3521.png" /></p>
@@ -148,7 +148,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **EVA-02: A Visual Representation for Neon Genesis**<br>
   *Yuxin Fang, Quan Sun, Xinggang Wang, Tiejun Huang, Xinlong Wang, Yue Cao*<br>
   CVPR'2024 \[[Paper](https://arxiv.org/abs/2303.11331)]
-  \[[Code](https://github.com/baaivision/EVA/tree/master/EVA-02) ⭐ 2,690 | 🐛 79 | 🌐 Python | 📅 2024-08-01]
+  \[[Code](https://github.com/baaivision/EVA/tree/master/EVA-02) ⭐ 2,691 | 🐛 79 | 🌐 Python | 📅 2024-08-01]
    <details close>
    <summary>EVA-02 Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/Lupin1998/Awesome-MIM/assets/44519745/0dc8f561-dd10-4950-8472-3b7f21210c82" /></p>
@@ -1490,7 +1490,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**<br>
   *Zhan Tong, Yibing Song, Jue Wang, Limin Wang*<br>
   NeurIPS'2022 \[[Paper](https://arxiv.org/abs/2203.12602)]
-  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,783 | 🐛 50 | 🌐 Python | 📅 2023-12-08]
+  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,784 | 🐛 50 | 🌐 Python | 📅 2023-12-08]
    <details close>
    <summary>VideoMAE Framework</summary>
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/44519745/207724710-e4093d2e-8d6c-40b9-bf7d-ab519eb97dd2.png" /></p>
@@ -1499,7 +1499,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking**<br>
   *Limin Wang, Bingkun Huang, Zhiyu Zhao, Zhan Tong, Yinan He, Yi Wang, Yali Wang, Yu Qiao*<br>
   CVPR'2023 \[[Paper](https://arxiv.org/abs/2303.16727)]
-  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,783 | 🐛 50 | 🌐 Python | 📅 2023-12-08]
+  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,784 | 🐛 50 | 🌐 Python | 📅 2023-12-08]
    <details close>
    <summary>VideoMAE.V2 Framework</summary>
    <p align="center"><img width="85%" src="https://user-images.githubusercontent.com/44519745/231277665-7027e34b-7b2c-4306-ac73-7be08b176f09.png" /></p>
@@ -1906,7 +1906,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**<br>
   *Haoyi Zhu, Honghui Yang, Xiaoyang Wu, Di Huang, Sha Zhang, Xianglong He, Tong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao, Wanli Ouyang*<br>
   ArXiv'2023 \[[Paper](https://arxiv.org/abs/2310.08586)]
-  \[[Code](https://github.com/Pointcept/Pointcept) ⭐ 3,188 | 🐛 363 | 🌐 Python | 📅 2026-08-03]
+  \[[Code](https://github.com/Pointcept/Pointcept) ⭐ 3,190 | 🐛 363 | 🌐 Python | 📅 2026-08-03]
 
 * **VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion**<br>
   *Yiming Li, Zhiding Yu, Christopher Choy, Chaowei Xiao, Jose M. Alvarez, Sanja Fidler, Chen Feng, Anima Anandkumar*<br>
@@ -2110,12 +2110,12 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **SaProt: Protein Language Modeling with Structure-aware Vocabulary**<br>
   *Jin Su, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan*<br>
   ICLR'2024 \[[Paper](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)]
-  \[[Code](https://github.com/westlake-repl/SaProt) ⭐ 623 | 🐛 26 | 🌐 Python | 📅 2026-03-08]
+  \[[Code](https://github.com/westlake-repl/SaProt) ⭐ 624 | 🐛 26 | 🌐 Python | 📅 2026-03-08]
 
 * **ProteinBERT: A universal deep-learning model of protein sequence and function**<br>
   *Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita Smetanin, Robert Verkuil, Ori Kabeli, Yaniv Shmueli, Allan dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Salvatore Candido, Alexander Rives*<br>
   Bioinformatics'2022 \[[Paper](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274)]
-  \[[Code](https://github.com/nadavbra/protein_bert) ⭐ 581 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-04-07]
+  \[[Code](https://github.com/nadavbra/protein_bert) ⭐ 582 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-04-07]
 
 * **MAPE-PPI: Towards Effective and Efficient Protein-Protein Interaction Prediction via Microenvironment-Aware Protein Embedding**<br>
   *Lirong Wu, Yijun Tian, Yufei Huang, Siyuan Li, Haitao Lin, Nitesh V Chawla, Stan Z. Li*<br>
@@ -2136,7 +2136,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules**<br>
   *Jun Xia, Chengshuai Zhao, Bozhen Hu, Zhangyang Gao, Cheng Tan, Yue Liu, Siyuan Li, Stan Z. Li*<br>
   ICLR'2023 \[[Paper](https://openreview.net/forum?id=jevY-DtiZTR)]
-  \[[Code](https://github.com/junxia97/Mole-BERT) ⭐ 136 | 🐛 9 | 🌐 Python | 📅 2023-06-09]
+  \[[Code](https://github.com/junxia97/Mole-BERT) ⭐ 135 | 🐛 9 | 🌐 Python | 📅 2023-06-09]
 
 * **VQMAE: Surface-VQMAE: Vector-quantized Masked Auto-encoders on Molecular Surfaces**<br>
   *Fang Wu, Stan Z. Li*<br>
@@ -2335,7 +2335,7 @@ If you find this repository and our survey helpful, please consider citing our p
 
 ### Paper List of Masked Image Modeling
 
-* [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,412 | 🐛 1 | 📅 2026-02-24: A curated list of awesome self-supervised methods.
+* [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,413 | 🐛 1 | 📅 2026-02-24: A curated list of awesome self-supervised methods.
 * [Awesome-Masked-Autoencoders](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders) ⭐ 866 | 🐛 1 | 📅 2024-07-10: A collection of literature after or concurrent with Masked Autoencoder (MAE).
 * [Awesome-MIM](https://github.com/Westlake-AI/openmixup/blob/main/docs/en/awesome_selfsup/MIM.md) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2025-10-15: Awesome list of masked image modeling methods for self-supervised visual representation.
 * [awesome-MIM](https://github.com/ucasligang/awesome-MIM) ⭐ 333 | 🐛 0 | 📅 2024-12-03: Reading list for research topics in Masked Image Modeling.
@@ -2354,4 +2354,4 @@ If you find this repository and our survey helpful, please consider citing our p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

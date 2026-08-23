@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12677
+                "stars": 12678
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2024-08-01T14:49:48Z",
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2690
+                "stars": 2691
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2024-08-01T14:49:48Z",
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2690
+                "stars": 2691
               }
             },
             {
@@ -1796,7 +1796,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1783
+                "stars": 1784
               }
             },
             {
@@ -1811,7 +1811,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1783
+                "stars": 1784
               }
             },
             {
@@ -2244,7 +2244,7 @@
                 "last_commit": "2026-08-03T04:44:30Z",
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3188
+                "stars": 3190
               }
             },
             {
@@ -2720,7 +2720,7 @@
                 "last_commit": "2026-03-08T13:25:39Z",
                 "owner": "westlake-repl",
                 "repo": "SaProt",
-                "stars": 623
+                "stars": 624
               }
             },
             {
@@ -2735,7 +2735,7 @@
                 "last_commit": "2026-04-07T13:39:55Z",
                 "owner": "nadavbra",
                 "repo": "protein_bert",
-                "stars": 581
+                "stars": 582
               }
             },
             {
@@ -2787,7 +2787,7 @@
                 "last_commit": "2023-06-09T12:31:18Z",
                 "owner": "junxia97",
                 "repo": "Mole-BERT",
-                "stars": 136
+                "stars": 135
               }
             },
             {
@@ -2962,7 +2962,7 @@
                 "last_commit": "2026-02-24T08:30:02Z",
                 "owner": "jason718",
                 "repo": "awesome-self-supervised-learning",
-                "stars": 6412
+                "stars": 6413
               }
             },
             {
@@ -3132,7 +3132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:34:11.429Z",
+    "last_updated": "2026-08-23T16:35:17.368Z",
     "original_repository": "Lupin1998/Awesome-MIM",
     "original_repository_id": 519575795,
     "original_repository_sha": "70db16f0ad9939ba08d411635d78bafaa8bbfb5d",
