@@ -17,7 +17,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32233
+                "stars": 32235
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32233
+                "stars": 32235
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22195
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12678
+                "stars": 12679
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-03-16T11:07:10Z",
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7407
+                "stars": 7409
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2024-08-01T14:49:48Z",
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2691
+                "stars": 2690
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2024-08-01T14:49:48Z",
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2691
+                "stars": 2690
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2024-03-02T06:16:12Z",
                 "owner": "facebookresearch",
                 "repo": "hiera",
-                "stars": 1073
+                "stars": 1074
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2022-09-29T15:17:40Z",
                 "owner": "microsoft",
                 "repo": "SimMIM",
-                "stars": 1047
+                "stars": 1048
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2022-12-13T12:47:30Z",
                 "owner": "EPFL-VILAB",
                 "repo": "MultiMAE",
-                "stars": 634
+                "stars": 635
               }
             },
             {
@@ -826,7 +826,7 @@
                 "last_commit": "2024-01-23T06:15:47Z",
                 "owner": "keyu-tian",
                 "repo": "SparK",
-                "stars": 1377
+                "stars": 1376
               }
             },
             {
@@ -1035,7 +1035,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22195
               }
             },
             {
@@ -1624,7 +1624,7 @@
                 "last_commit": "2024-12-24T08:36:39Z",
                 "owner": "yformer",
                 "repo": "EfficientSAM",
-                "stars": 2490
+                "stars": 2491
               }
             },
             {
@@ -1736,7 +1736,7 @@
                 "last_commit": "2026-03-16T11:07:10Z",
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7407
+                "stars": 7409
               }
             },
             {
@@ -1796,7 +1796,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1784
+                "stars": 1783
               }
             },
             {
@@ -1811,7 +1811,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1784
+                "stars": 1783
               }
             },
             {
@@ -2234,6 +2234,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "DiT: Self-supervised Pre-training for Document Image Transformer Junlong Li, Yiheng Xu, Tengchao Lv, Lei Cui, Cha Zhang, Furu Wei ACMMM'2022 [Paper",
+              "description": "] Code] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198350484,
+                "language": "Python",
+                "last_commit": "2026-01-23T04:09:35Z",
+                "owner": "microsoft",
+                "repo": "unilm",
+                "stars": 22195
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scene Text Recognition (OCR)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CMID: A Unified Self-Supervised Learning Framework for Remote Sensing Image Understanding Dilxat Muhtar, Xueliang Zhang, Pengfeng Xiao, Zhenshi Li, Feng Gu TGRS'2023 [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 584791471,
+                "language": "Python",
+                "last_commit": "2024-10-26T12:51:40Z",
+                "owner": "NJU-LHRS",
+                "repo": "official-CMID",
+                "stars": 103
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Remote Sensing Image"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm Haoyi Zhu, Honghui Yang, Xiaoyang Wu, Di Huang, Sha Zhang, Xianglong He, Tong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao, Wanli Ouyang ArXiv'2023 [Paper",
               "description": "] [Code]",
               "children": [],
@@ -2244,7 +2288,7 @@
                 "last_commit": "2026-08-03T04:44:30Z",
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3190
+                "stars": 3194
               }
             },
             {
@@ -2289,7 +2333,7 @@
                 "last_commit": "2025-03-31T12:22:57Z",
                 "owner": "Pang-Yatian",
                 "repo": "Point-MAE",
-                "stars": 637
+                "stars": 638
               }
             },
             {
@@ -2517,7 +2561,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32233
+            "stars": 32235
           }
         },
         {
@@ -2532,7 +2576,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32233
+            "stars": 32235
           }
         },
         {
@@ -2547,7 +2591,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32233
+            "stars": 32235
           }
         },
         {
@@ -2562,7 +2606,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32233
+            "stars": 32235
           }
         },
         {
@@ -2702,10 +2746,10 @@
                 "archived": false,
                 "id": 166769317,
                 "language": "C",
-                "last_commit": "2026-08-21T14:47:59Z",
+                "last_commit": "2026-08-24T10:51:23Z",
                 "owner": "steineggerlab",
                 "repo": "foldseek",
-                "stars": 1281
+                "stars": 1282
               }
             },
             {
@@ -2720,7 +2764,7 @@
                 "last_commit": "2026-03-08T13:25:39Z",
                 "owner": "westlake-repl",
                 "repo": "SaProt",
-                "stars": 624
+                "stars": 625
               }
             },
             {
@@ -2735,7 +2779,7 @@
                 "last_commit": "2026-04-07T13:39:55Z",
                 "owner": "nadavbra",
                 "repo": "protein_bert",
-                "stars": 582
+                "stars": 583
               }
             },
             {
@@ -2809,6 +2853,28 @@
           "description": null,
           "node_type": "group",
           "title": "Chemistry"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting Xin Man, Chenghong Zhang, Jin Feng, Changyu Li, Jie Shao arXiv'2023 [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627879106,
+                "language": "Python",
+                "last_commit": "2024-04-15T14:41:05Z",
+                "owner": "Gufrannn",
+                "repo": "W-MAE",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Physics"
         }
       ],
       "title": "AI for Science"
@@ -3029,7 +3095,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32233
+                "stars": 32235
               }
             },
             {
@@ -3044,7 +3110,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22195
               }
             },
             {
@@ -3074,7 +3140,7 @@
                 "last_commit": "2026-08-21T20:54:21Z",
                 "owner": "lightly-ai",
                 "repo": "lightly",
-                "stars": 3795
+                "stars": 3796
               }
             },
             {
@@ -3132,7 +3198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:35:17.368Z",
+    "last_updated": "2026-08-24T14:26:35.039Z",
     "original_repository": "Lupin1998/Awesome-MIM",
     "original_repository_id": 519575795,
     "original_repository_sha": "70db16f0ad9939ba08d411635d78bafaa8bbfb5d",
