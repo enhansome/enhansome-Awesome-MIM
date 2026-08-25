@@ -17,7 +17,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32235
+                "stars": 32234
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32235
+                "stars": 32234
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-07-23T18:15:40Z",
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8371
+                "stars": 8370
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2024-11-01T06:27:36Z",
                 "owner": "open-mmlab",
                 "repo": "mmpretrain",
-                "stars": 3848
+                "stars": 3850
               }
             },
             {
@@ -472,21 +472,6 @@
             },
             {
               "node_type": "item",
-              "title": "Exploring Target Representations for Masked Autoencoders Xingbin Liu, Jinghao Zhou, Tao Kong, Xianming Lin, Rongrong Ji ICLR'2024 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 561350641,
-                "language": "Python",
-                "last_commit": "2024-01-17T03:57:19Z",
-                "owner": "liuxingbin",
-                "repo": "dbot",
-                "stars": 56
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Masked Image Modeling with Local Multi-Scale Reconstruction Haoqing Wang, Yehui Tang, Yunhe Wang, Jianyuan Guo, Zhi-Hong Deng, Kai Han CVPR'2023 [Paper",
               "description": "] [Code]",
               "children": [],
@@ -497,6 +482,21 @@
                 "last_commit": "2023-07-10T07:38:19Z",
                 "owner": "Haoqing-Wang",
                 "repo": "LocalMIM",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Exploring Target Representations for Masked Autoencoders Xingbin Liu, Jinghao Zhou, Tao Kong, Xianming Lin, Rongrong Ji ICLR'2024 [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 561350641,
+                "language": "Python",
+                "last_commit": "2024-01-17T03:57:19Z",
+                "owner": "liuxingbin",
+                "repo": "dbot",
                 "stars": 56
               }
             },
@@ -1266,7 +1266,7 @@
                 "last_commit": "2024-05-11T19:18:10Z",
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11307
+                "stars": 11306
               }
             },
             {
@@ -1296,7 +1296,7 @@
                 "last_commit": "2024-07-30T18:27:31Z",
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6520
+                "stars": 6521
               }
             },
             {
@@ -1796,7 +1796,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1783
+                "stars": 1784
               }
             },
             {
@@ -1811,7 +1811,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1783
+                "stars": 1784
               }
             },
             {
@@ -2561,7 +2561,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32234
           }
         },
         {
@@ -2576,7 +2576,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32234
           }
         },
         {
@@ -2591,7 +2591,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32234
           }
         },
         {
@@ -2606,7 +2606,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32234
           }
         },
         {
@@ -2749,7 +2749,7 @@
                 "last_commit": "2026-08-24T10:51:23Z",
                 "owner": "steineggerlab",
                 "repo": "foldseek",
-                "stars": 1282
+                "stars": 1283
               }
             },
             {
@@ -2831,7 +2831,7 @@
                 "last_commit": "2023-06-09T12:31:18Z",
                 "owner": "junxia97",
                 "repo": "Mole-BERT",
-                "stars": 135
+                "stars": 136
               }
             },
             {
@@ -3095,7 +3095,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32235
+                "stars": 32234
               }
             },
             {
@@ -3125,7 +3125,7 @@
                 "last_commit": "2024-11-01T06:27:36Z",
                 "owner": "open-mmlab",
                 "repo": "mmpretrain",
-                "stars": 3848
+                "stars": 3850
               }
             },
             {
@@ -3198,7 +3198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:47.608Z",
+    "last_updated": "2026-08-25T16:47:48.613Z",
     "original_repository": "Lupin1998/Awesome-MIM",
     "original_repository_id": 519575795,
     "original_repository_sha": "70db16f0ad9939ba08d411635d78bafaa8bbfb5d",
