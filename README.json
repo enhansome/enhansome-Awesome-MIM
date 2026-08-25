@@ -47,7 +47,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22193
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12679
+                "stars": 12681
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-03-16T11:07:10Z",
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7409
+                "stars": 7410
               }
             },
             {
@@ -437,7 +437,7 @@
                 "last_commit": "2025-04-03T13:00:52Z",
                 "owner": "junchen14",
                 "repo": "LoMaR",
-                "stars": 69
+                "stars": 70
               }
             },
             {
@@ -1035,7 +1035,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22193
               }
             },
             {
@@ -1736,7 +1736,7 @@
                 "last_commit": "2026-03-16T11:07:10Z",
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7409
+                "stars": 7410
               }
             },
             {
@@ -2021,7 +2021,7 @@
                 "last_commit": "2023-09-22T11:35:20Z",
                 "owner": "maoyunyao",
                 "repo": "MAMP",
-                "stars": 53
+                "stars": 54
               }
             },
             {
@@ -2244,7 +2244,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22193
               }
             }
           ],
@@ -2288,7 +2288,7 @@
                 "last_commit": "2026-08-03T04:44:30Z",
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3195
+                "stars": 3196
               }
             },
             {
@@ -2408,7 +2408,7 @@
                 "last_commit": "2024-07-21T18:15:20Z",
                 "owner": "qizekun",
                 "repo": "ReCon",
-                "stars": 154
+                "stars": 158
               }
             },
             {
@@ -3110,7 +3110,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22193
               }
             },
             {
@@ -3198,7 +3198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:49:06.891Z",
+    "last_updated": "2026-08-25T06:21:47.608Z",
     "original_repository": "Lupin1998/Awesome-MIM",
     "original_repository_id": 519575795,
     "original_repository_sha": "70db16f0ad9939ba08d411635d78bafaa8bbfb5d",
