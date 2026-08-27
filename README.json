@@ -92,7 +92,7 @@
                 "last_commit": "2026-03-16T11:07:10Z",
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7410
+                "stars": 7411
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2024-08-01T14:49:48Z",
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2691
+                "stars": 2692
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2024-08-01T14:49:48Z",
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2691
+                "stars": 2692
               }
             },
             {
@@ -1416,7 +1416,7 @@
                 "last_commit": "2024-10-22T03:51:20Z",
                 "owner": "csuhan",
                 "repo": "OneLLM",
-                "stars": 666
+                "stars": 665
               }
             },
             {
@@ -1491,7 +1491,7 @@
                 "last_commit": "2024-06-28T01:43:33Z",
                 "owner": "zh460045050",
                 "repo": "VQGAN-LC",
-                "stars": 145
+                "stars": 144
               }
             },
             {
@@ -1736,7 +1736,7 @@
                 "last_commit": "2026-03-16T11:07:10Z",
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7410
+                "stars": 7411
               }
             },
             {
@@ -1796,7 +1796,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1784
+                "stars": 1785
               }
             },
             {
@@ -1811,7 +1811,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1784
+                "stars": 1785
               }
             },
             {
@@ -2288,7 +2288,7 @@
                 "last_commit": "2026-08-03T04:44:30Z",
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3196
+                "stars": 3198
               }
             },
             {
@@ -2318,7 +2318,7 @@
                 "last_commit": "2025-03-22T03:52:32Z",
                 "owner": "Julie-tang00",
                 "repo": "Point-BERT",
-                "stars": 695
+                "stars": 696
               }
             },
             {
@@ -2749,7 +2749,7 @@
                 "last_commit": "2026-08-24T10:51:23Z",
                 "owner": "steineggerlab",
                 "repo": "foldseek",
-                "stars": 1283
+                "stars": 1285
               }
             },
             {
@@ -2764,7 +2764,7 @@
                 "last_commit": "2026-03-08T13:25:39Z",
                 "owner": "westlake-repl",
                 "repo": "SaProt",
-                "stars": 626
+                "stars": 627
               }
             },
             {
@@ -3140,7 +3140,7 @@
                 "last_commit": "2026-08-21T20:54:21Z",
                 "owner": "lightly-ai",
                 "repo": "lightly",
-                "stars": 3796
+                "stars": 3798
               }
             },
             {
@@ -3198,9 +3198,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:53:28.941Z",
-    "original_repository": "Lupin1998/Awesome-MIM",
-    "original_repository_id": 519575795,
+    "last_updated": "2026-08-27T11:26:02.514Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 519575795,
+      "language": "Python",
+      "last_commit": "2025-04-23T21:41:19Z",
+      "owner": "Lupin1998",
+      "repo": "Awesome-MIM",
+      "stars": 355
+    },
     "original_repository_sha": "70db16f0ad9939ba08d411635d78bafaa8bbfb5d",
     "enhanced_repository": "enhansome/enhansome-Awesome-MIM",
     "enhanced_repository_description": null,
