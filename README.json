@@ -17,7 +17,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32231
+                "stars": 32232
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32231
+                "stars": 32232
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-26T08:16:01Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22197
               }
             },
             {
@@ -1035,7 +1035,7 @@
                 "last_commit": "2026-08-26T08:16:01Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22197
               }
             },
             {
@@ -1796,7 +1796,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1785
+                "stars": 1786
               }
             },
             {
@@ -1811,7 +1811,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1785
+                "stars": 1786
               }
             },
             {
@@ -2209,21 +2209,6 @@
                 "repo": "FocusMAE",
                 "stars": 19
               }
-            },
-            {
-              "node_type": "item",
-              "title": "MRM: Masked Relation Modeling for Medical Image Pre-Training with Genetics Qiushi Yang, Wuyang Li, Baopu Li, Yixuan Yuan ICCV'2023 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 680032046,
-                "language": "Python",
-                "last_commit": "2024-10-28T08:10:25Z",
-                "owner": "CityU-AIM-Group",
-                "repo": "MRM",
-                "stars": 10
-              }
             }
           ],
           "description": null,
@@ -2244,7 +2229,7 @@
                 "last_commit": "2026-08-26T08:16:01Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22197
               }
             }
           ],
@@ -2561,7 +2546,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231
+            "stars": 32232
           }
         },
         {
@@ -2576,7 +2561,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231
+            "stars": 32232
           }
         },
         {
@@ -2591,7 +2576,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231
+            "stars": 32232
           }
         },
         {
@@ -2606,7 +2591,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231
+            "stars": 32232
           }
         },
         {
@@ -2749,7 +2734,7 @@
                 "last_commit": "2026-08-24T10:51:23Z",
                 "owner": "steineggerlab",
                 "repo": "foldseek",
-                "stars": 1285
+                "stars": 1286
               }
             },
             {
@@ -3095,7 +3080,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32231
+                "stars": 32232
               }
             },
             {
@@ -3110,7 +3095,7 @@
                 "last_commit": "2026-08-26T08:16:01Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22197
               }
             },
             {
@@ -3198,7 +3183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:26:02.514Z",
+    "last_updated": "2026-08-28T00:49:58.357Z",
     "original_repository_info": {
       "archived": false,
       "id": 519575795,

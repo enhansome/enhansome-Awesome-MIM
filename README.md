@@ -85,7 +85,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **BEiT: BERT Pre-Training of Image Transformers**<br>
   *Hangbo Bao, Li Dong, Furu Wei*<br>
   ICLR'2022 \[[Paper](https://arxiv.org/abs/2106.08254)]
-  \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,194 | 🐛 684 | 🌐 Python | 📅 2026-08-26]
+  \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,197 | 🐛 684 | 🌐 Python | 📅 2026-08-26]
    <details close>
    <summary>BEiT Framework</summary>
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/44519745/204301720-156e15e1-a00a-4946-b17f-d2620d2be3d6.png" /></p>
@@ -971,7 +971,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**<br>
   *Wenhui Wang, Hangbo Bao, Li Dong, Johan Bjorck, Zhiliang Peng, Qiang Liu, Kriti Aggarwal, Owais Khan Mohammed, Saksham Singhal, Subhojit Som, Furu Wei*<br>
   ArXiv'2022 \[[Paper](https://arxiv.org/abs/2208.10442)]
-  \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,194 | 🐛 684 | 🌐 Python | 📅 2026-08-26]
+  \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,197 | 🐛 684 | 🌐 Python | 📅 2026-08-26]
    <details close>
    <summary>BEiT.V3 Framework</summary>
    <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/44519745/204308318-b1d80584-2b7e-4c35-bb68-171c9bfaf299.png" /></p>
@@ -1490,7 +1490,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**<br>
   *Zhan Tong, Yibing Song, Jue Wang, Limin Wang*<br>
   NeurIPS'2022 \[[Paper](https://arxiv.org/abs/2203.12602)]
-  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,785 | 🐛 50 | 🌐 Python | 📅 2023-12-08]
+  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,786 | 🐛 50 | 🌐 Python | 📅 2023-12-08]
    <details close>
    <summary>VideoMAE Framework</summary>
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/44519745/207724710-e4093d2e-8d6c-40b9-bf7d-ab519eb97dd2.png" /></p>
@@ -1499,7 +1499,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking**<br>
   *Limin Wang, Bingkun Huang, Zhiyu Zhao, Zhan Tong, Yinan He, Yi Wang, Yali Wang, Yu Qiao*<br>
   CVPR'2023 \[[Paper](https://arxiv.org/abs/2303.16727)]
-  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,785 | 🐛 50 | 🌐 Python | 📅 2023-12-08]
+  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,786 | 🐛 50 | 🌐 Python | 📅 2023-12-08]
    <details close>
    <summary>VideoMAE.V2 Framework</summary>
    <p align="center"><img width="85%" src="https://user-images.githubusercontent.com/44519745/231277665-7027e34b-7b2c-4306-ac73-7be08b176f09.png" /></p>
@@ -1826,10 +1826,6 @@ The overview of the basic MIM framework, containing four building blocks with th
   *Soumen Basu, Mayuna Gupta, Chetan Madan, Pankaj Gupta, Chetan Arora*<br>
   CVPR'2024 \[[Paper](https://arxiv.org/abs/2403.08848)] \[[Code](https://github.com/sbasu276/FocusMAE) ⭐ 19 | 🐛 2 | 🌐 Python | 📅 2025-05-06]
 
-* **MRM: Masked Relation Modeling for Medical Image Pre-Training with Genetics**<br>
-  *Qiushi Yang, Wuyang Li, Baopu Li, Yixuan Yuan*<br>
-  ICCV'2023 \[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_MRM_Masked_Relation_Modeling_for_Medical_Image_Pre-Training_with_Genetics_ICCV_2023_paper.pdf)] \[[Code](https://github.com/CityU-AIM-Group/MRM) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2024-10-28]
-
 * **Self Pre-training with Masked Autoencoders for Medical Image Analysis**<br>
   *Lei Zhou, Huidong Liu, Joseph Bae, Junjun He, Dimitris Samaras, Prateek Prasanna*<br>
   ArXiv'2022 \[[Paper](https://arxiv.org/abs/2203.05573)]
@@ -1846,6 +1842,10 @@ The overview of the basic MIM framework, containing four building blocks with th
   *Zekai Chen, Devansh Agarwal, Kshitij Aggarwal, Wiem Safta, Samit Hirawat, Venkat Sethuraman, Mariann Micsinai Balan, Kevin Brown*<br>
   WACV'2023 \[[Paper](https://arxiv.org/abs/2204.11716)] \[[Code](https://github.com/ZEKAICHEN/MIM-Med3D)]
 
+* **MRM: Masked Relation Modeling for Medical Image Pre-Training with Genetics**<br>
+  *Qiushi Yang, Wuyang Li, Baopu Li, Yixuan Yuan*<br>
+  ICCV'2023 \[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_MRM_Masked_Relation_Modeling_for_Medical_Image_Pre-Training_with_Genetics_ICCV_2023_paper.pdf)] \[[Code](https://github.com/CityU-AIM-Group/MRM)]
+
 ### Face Recognition
 
 * **FaceMAE: Privacy-Preserving Face Recognition via Masked Autoencoders**<br>
@@ -1856,7 +1856,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 
 * **DiT: Self-supervised Pre-training for Document Image Transformer**<br>
   *Junlong Li, Yiheng Xu, Tengchao Lv, Lei Cui, Cha Zhang, Furu Wei*<br>
-  ACMMM'2022 \[[Paper](https://arxiv.org/abs/2203.02378)] [Code](https://github.com/microsoft/unilm/tree/master/dit) ⭐ 22,194 | 🐛 684 | 🌐 Python | 📅 2026-08-26]
+  ACMMM'2022 \[[Paper](https://arxiv.org/abs/2203.02378)] [Code](https://github.com/microsoft/unilm/tree/master/dit) ⭐ 22,197 | 🐛 684 | 🌐 Python | 📅 2026-08-26]
   \[[Code](https://github.com/scok30/mae-cil) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2024-06-04]
    <details close>
    <summary>DiT Framework</summary>
@@ -2105,7 +2105,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Foldseek: fast and accurate protein structure search**<br>
   *Michel van Kempen, Stephanie S. Kim, Charlotte Tumescheit, Milot Mirdita, Johannes Söding, Martin Steinegger*<br>
   Nature'2023 \[[Paper](https://www.biorxiv.org/content/10.1101/2022.02.07.479398v2)]
-  \[[Code](https://github.com/steineggerlab/foldseek) ⭐ 1,285 | 🐛 187 | 🌐 C | 📅 2026-08-24]
+  \[[Code](https://github.com/steineggerlab/foldseek) ⭐ 1,286 | 🐛 187 | 🌐 C | 📅 2026-08-24]
 
 * **SaProt: Protein Language Modeling with Structure-aware Vocabulary**<br>
   *Jin Su, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan*<br>
@@ -2343,7 +2343,7 @@ If you find this repository and our survey helpful, please consider citing our p
 ### Project of Self-supervised Learning
 
 * [Fairseq](https://github.com/facebookresearch/fairseq) ⚠️ Archived: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-* [unilm](https://github.com/microsoft/unilm) ⭐ 22,194 | 🐛 684 | 🌐 Python | 📅 2026-08-26: Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
+* [unilm](https://github.com/microsoft/unilm) ⭐ 22,197 | 🐛 684 | 🌐 Python | 📅 2026-08-26: Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
 * [MMPretrain](https://github.com/open-mmlab/mmpretrain) ⭐ 3,850 | 🐛 273 | 🌐 Python | 📅 2024-11-01: OpenMMLab self-supervised pre-training toolbox and benchmark.
 * [lightly](https://github.com/lightly-ai/lightly) ⭐ 3,798 | 🐛 98 | 🌐 Python | 📅 2026-08-21: A python library for self-supervised learning on images.
 * [VISSL](https://github.com/facebookresearch/vissl) ⚠️ Archived: FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
@@ -2354,4 +2354,4 @@ If you find this repository and our survey helpful, please consider citing our p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
