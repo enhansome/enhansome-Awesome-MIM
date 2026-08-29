@@ -113,7 +113,7 @@
                 "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12684,
+                "stars": 12686,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -155,7 +155,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7411,
+                "stars": 7412,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -317,7 +317,7 @@
                 "open_issues": 29,
                 "owner": "facebookresearch",
                 "repo": "hiera",
-                "stars": 1074,
+                "stars": 1075,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2059,7 +2059,7 @@
                 "open_issues": 73,
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11306,
+                "stars": 11305,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -2315,7 +2315,7 @@
                 "open_issues": 18,
                 "owner": "sail-sg",
                 "repo": "MDT",
-                "stars": 596,
+                "stars": 597,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2336,7 +2336,7 @@
                 "open_issues": 18,
                 "owner": "sail-sg",
                 "repo": "MDT",
-                "stars": 596,
+                "stars": 597,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2767,7 +2767,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7411,
+                "stars": 7412,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2965,7 +2965,7 @@
                 "open_issues": 8,
                 "owner": "facebookresearch",
                 "repo": "omnivore",
-                "stars": 573,
+                "stars": 572,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -3580,7 +3580,7 @@
                 "open_issues": 363,
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3198,
+                "stars": 3199,
                 "topics": [
                   "3d-vision",
                   "point-cloud",
@@ -3602,7 +3602,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2023-12-07T22:46:17Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "NVlabs",
                 "repo": "VoxFormer",
                 "stars": 1208,
@@ -3641,7 +3641,7 @@
                 "open_issues": 30,
                 "owner": "Julie-tang00",
                 "repo": "Point-BERT",
-                "stars": 696,
+                "stars": 697,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4174,7 +4174,7 @@
                 "open_issues": 115,
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4171,
+                "stars": 4170,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4195,7 +4195,7 @@
                 "open_issues": 115,
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4171,
+                "stars": 4170,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4216,7 +4216,7 @@
                 "open_issues": 115,
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4171,
+                "stars": 4170,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4237,7 +4237,7 @@
                 "open_issues": 115,
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4171,
+                "stars": 4170,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4258,7 +4258,7 @@
                 "open_issues": 115,
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4171,
+                "stars": 4170,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4305,7 +4305,7 @@
                 "open_issues": 26,
                 "owner": "westlake-repl",
                 "repo": "SaProt",
-                "stars": 627,
+                "stars": 626,
                 "topics": [
                   "alphafold2",
                   "foldseek",
@@ -4935,7 +4935,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-28T13:55:27Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "lightly-ai",
                 "repo": "lightly",
                 "stars": 3800,
@@ -4990,7 +4990,7 @@
                 "open_issues": 18,
                 "owner": "vturrisi",
                 "repo": "solo-learn",
-                "stars": 1573,
+                "stars": 1574,
                 "topics": [
                   "barlow-twins",
                   "byol",
@@ -5066,7 +5066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:46:03.251Z",
+    "last_updated": "2026-08-29T19:21:49.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
