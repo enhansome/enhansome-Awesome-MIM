@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+                "homepage": null,
                 "id": 101782647,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
+                "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32232,
+                "topics": [
+                  "artificial-intelligence",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -28,12 +37,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+                "homepage": null,
                 "id": 101782647,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
+                "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32232,
+                "topics": [
+                  "artificial-intelligence",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -44,12 +62,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+                "homepage": "https://aka.ms/GeneralAI",
                 "id": 198350484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T08:16:01Z",
+                "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22196
+                "stars": 22196,
+                "topics": [
+                  "beit",
+                  "beit-3",
+                  "bitnet",
+                  "deepnet",
+                  "document-ai",
+                  "foundation-models",
+                  "kosmos",
+                  "kosmos-1",
+                  "layoutlm",
+                  "layoutxlm",
+                  "llm",
+                  "minilm",
+                  "mllm",
+                  "multimodal",
+                  "nlp",
+                  "pre-trained-model",
+                  "textdiffuser",
+                  "trocr",
+                  "unilm",
+                  "xlm-e"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -60,12 +104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 306018946,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-01T21:36:15Z",
+                "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12683
+                "stars": 12684,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -76,12 +125,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+                "homepage": null,
                 "id": 435653386,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-23T18:15:40Z",
+                "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8370
+                "stars": 8370,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -92,12 +146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.",
+                "homepage": null,
                 "id": 203465734,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-16T11:07:10Z",
+                "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7411
+                "stars": 7411,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -108,12 +167,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenMMLab Pre-training Toolbox and Benchmark",
+                "homepage": "https://mmpretrain.readthedocs.io/en/latest/",
                 "id": 278415292,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-01T06:27:36Z",
+                "open_issues": 273,
                 "owner": "open-mmlab",
                 "repo": "mmpretrain",
-                "stars": 3851
+                "stars": 3851,
+                "topics": [
+                  "beit",
+                  "clip",
+                  "constrastive-learning",
+                  "convnext",
+                  "deep-learning",
+                  "image-classification",
+                  "mae",
+                  "masked-image-modeling",
+                  "mobilenet",
+                  "moco",
+                  "multimodal",
+                  "pretrained-models",
+                  "pytorch",
+                  "resnet",
+                  "self-supervised-learning",
+                  "swin-transformer",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -124,12 +206,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenMMLab Self-Supervised Learning Toolbox and Benchmark",
+                "homepage": "https://mmselfsup.readthedocs.io/en/latest/",
                 "id": 271716219,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-25T02:30:28Z",
+                "open_issues": 61,
                 "owner": "open-mmlab",
                 "repo": "mmselfsup",
-                "stars": 3302
+                "stars": 3302,
+                "topics": [
+                  "beit",
+                  "mae",
+                  "masked-image-modeling",
+                  "moco",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "simclr",
+                  "simsiam",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -140,12 +237,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EVA Series: Visual Representation Fantasies from BAAI",
+                "homepage": null,
                 "id": 565730722,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-01T14:49:48Z",
+                "open_issues": 79,
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2693
+                "stars": 2693,
+                "topics": [
+                  "foundation-models",
+                  "representation-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -156,12 +262,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EVA Series: Visual Representation Fantasies from BAAI",
+                "homepage": null,
                 "id": 565730722,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-01T14:49:48Z",
+                "open_issues": 79,
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2693
+                "stars": 2693,
+                "topics": [
+                  "foundation-models",
+                  "representation-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -172,12 +287,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 262168687,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-29T00:03:56Z",
+                "open_issues": 12,
                 "owner": "openai",
                 "repo": "image-gpt",
-                "stars": 2096
+                "stars": 2096,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -188,12 +308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hiera: A fast, powerful, and simple hierarchical vision transformer.",
+                "homepage": null,
                 "id": 645640182,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-02T06:16:12Z",
+                "open_issues": 29,
                 "owner": "facebookresearch",
                 "repo": "hiera",
-                "stars": 1074
+                "stars": 1074,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -204,12 +329,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official implementation for \"SimMIM: A Simple Framework for Masked Image Modeling\".",
+                "homepage": "https://arxiv.org/abs/2111.09886",
                 "id": 429351432,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-29T15:17:40Z",
+                "open_issues": 30,
                 "owner": "microsoft",
                 "repo": "SimMIM",
-                "stars": 1048
+                "stars": 1048,
+                "topics": [
+                  "image-classification",
+                  "masked-image-modeling",
+                  "self-supervised-learning",
+                  "swin-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -220,12 +355,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "iBOT :robot:: Image BERT Pre-Training with Online Tokenizer (ICLR 2022)",
+                "homepage": "https://arxiv.org/abs/2111.07832",
                 "id": 436574334,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-14T12:32:13Z",
+                "open_issues": 8,
                 "owner": "bytedance",
                 "repo": "ibot",
-                "stars": 778
+                "stars": 778,
+                "topics": [
+                  "ibot",
+                  "research",
+                  "ssl"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -236,12 +380,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                "homepage": "https://openmixup.readthedocs.io",
                 "id": 443031097,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-15T10:20:58Z",
+                "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 658
+                "stars": 658,
+                "topics": [
+                  "automix",
+                  "awesome-list",
+                  "awesome-mim",
+                  "awesome-mixup",
+                  "benchmark",
+                  "contrastive-learning",
+                  "data-augmentation",
+                  "data-generation",
+                  "deep-learning",
+                  "image-classifcation",
+                  "imagenet",
+                  "machine-learning",
+                  "masked-image-modeling",
+                  "mixup",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "semi-supervised-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -252,12 +420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiMAE: Multi-modal Multi-task Masked Autoencoders, ECCV 2022",
+                "homepage": "https://multimae.epfl.ch",
                 "id": 472338229,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-13T12:47:30Z",
+                "open_issues": 6,
                 "owner": "EPFL-VILAB",
                 "repo": "MultiMAE",
-                "stars": 636
+                "stars": 636,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -268,12 +441,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ConvMAE: Masked Convolution Meets Masked Autoencoders",
+                "homepage": null,
                 "id": 487770089,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-14T15:17:35Z",
+                "open_issues": 27,
                 "owner": "Alpha-VL",
                 "repo": "ConvMAE",
-                "stars": 531
+                "stars": 531,
+                "topics": [
+                  "backbone",
+                  "computer-vision",
+                  "mae",
+                  "masked-image-modeling",
+                  "object-detection",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -284,12 +469,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ConvMAE: Masked Convolution Meets Masked Autoencoders",
+                "homepage": null,
                 "id": 487770089,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-14T15:17:35Z",
+                "open_issues": 27,
                 "owner": "Alpha-VL",
                 "repo": "ConvMAE",
-                "stars": 531
+                "stars": 531,
+                "topics": [
+                  "backbone",
+                  "computer-vision",
+                  "mae",
+                  "masked-image-modeling",
+                  "object-detection",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -300,12 +497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 496909645,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-30T08:49:53Z",
+                "open_issues": 16,
                 "owner": "SwinTransformer",
                 "repo": "Feature-Distillation",
-                "stars": 262
+                "stars": 262,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -316,12 +518,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a PyTorch implementation of “Context AutoEncoder for Self-Supervised Representation Learning\"",
+                "homepage": null,
                 "id": 499748952,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-01-11T16:59:23Z",
+                "open_issues": 8,
                 "owner": "lxtGH",
                 "repo": "CAE",
-                "stars": 199
+                "stars": 199,
+                "topics": [
+                  "context-autoencoder",
+                  "masked-image-modeling",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -332,12 +543,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS2022] Official implementation of the paper 'Green Hierarchical Vision Transformer for Masked Image Modeling'.",
+                "homepage": null,
                 "id": 496666202,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-16T08:17:25Z",
+                "open_issues": 3,
                 "owner": "LayneH",
                 "repo": "GreenMIM",
-                "stars": 176
+                "stars": 176,
+                "topics": [
+                  "efficient-deep-learning",
+                  "masked-image-modeling",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -348,12 +570,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 570407703,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-25T08:15:29Z",
+                "open_issues": 4,
                 "owner": "OliverRensu",
                 "repo": "TinyMIM",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -364,12 +591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implement for ICML2023 paper: \"A Closer Look at Self-Supervised Lightweight Vision Transformers\"",
+                "homepage": null,
                 "id": 496227409,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-02T15:39:59Z",
+                "open_issues": 11,
                 "owner": "wangsr126",
                 "repo": "MAE-Lite",
-                "stars": 152
+                "stars": 152,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -380,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PyTorch implementation of R-MAE https//arxiv.org/abs/2306.05411",
+                "homepage": null,
                 "id": 651706659,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-09T22:20:14Z",
+                "open_issues": 1,
                 "owner": "facebookresearch",
                 "repo": "r-mae",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -396,12 +633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ECCV2022,Bootstrapped Masked Autoencoders for Vision BERT Pretraining",
+                "homepage": null,
                 "id": 513860494,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-02T12:45:24Z",
+                "open_issues": 1,
                 "owner": "LightDXY",
                 "repo": "BootMAE",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -412,12 +654,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official github repo for \"Test-Time Training with Masked Autoencoders\"",
+                "homepage": null,
                 "id": 528161538,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-12T22:54:04Z",
+                "open_issues": 1,
                 "owner": "yossigandelsman",
                 "repo": "test_time_training_mae",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -428,12 +675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of the paper \"MILAN: Masked Image Pretraining on Language Assisted Representation\" https://arxiv.org/pdf/2208.06049.pdf.",
+                "homepage": null,
                 "id": 522692190,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-16T21:33:16Z",
+                "open_issues": 0,
                 "owner": "zejiangh",
                 "repo": "MILAN",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -444,12 +696,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a offical PyTorch/GPU implementation of SupMAE.",
+                "homepage": null,
                 "id": 497440641,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-30T01:48:43Z",
+                "open_issues": 0,
                 "owner": "enyac-group",
                 "repo": "supmae",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -460,12 +717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LoMaR (Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction)",
+                "homepage": null,
                 "id": 496248221,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-03T13:00:52Z",
+                "open_issues": 3,
                 "owner": "junchen14",
                 "repo": "LoMaR",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -476,12 +738,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Denoising Masked Autoencoders Help Robust Classification.",
+                "homepage": "https://arxiv.org/abs/2210.06983",
                 "id": 542996441,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-04T11:45:30Z",
+                "open_issues": 1,
                 "owner": "quanlin-wu",
                 "repo": "dmae",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "pre-training",
+                  "robustness-certification",
+                  "self-supervised-learning",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -492,12 +764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 515207149,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-06T02:50:53Z",
+                "open_issues": 5,
                 "owner": "AbrahamYabo",
                 "repo": "SdAE",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -508,12 +785,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023 Highlight] Masked Image Modeling with Local Multi-Scale Reconstruction",
+                "homepage": null,
                 "id": 610249206,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-10T07:38:19Z",
+                "open_issues": 4,
                 "owner": "Haoqing-Wang",
                 "repo": "LocalMIM",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -524,12 +806,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR2024] Exploring Target Representations for Masked Autoencoders",
+                "homepage": "https://arxiv.org/abs/2209.03917",
                 "id": 561350641,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-17T03:57:19Z",
+                "open_issues": 1,
                 "owner": "liuxingbin",
                 "repo": "dbot",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "dbot",
+                  "masked-image-modeling",
+                  "representation-learning",
+                  "ssl",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -540,12 +833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WACV2025 Oral] DeepMIM: Deep Supervision for Masked Image Modeling",
+                "homepage": null,
                 "id": 613775265,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-10T00:26:06Z",
+                "open_issues": 4,
                 "owner": "OliverRensu",
                 "repo": "DeepMIM",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -556,12 +854,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] Official pytorch implementation of \"mc-BEiT: Multi-choice Discretization for Image BERT Pre-training\" in European Conference on Computer Vision (ECCV) 2022.",
+                "homepage": null,
                 "id": 514460246,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-13T02:59:48Z",
+                "open_issues": 0,
                 "owner": "lixiaotong97",
                 "repo": "mc-BEiT",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "eccv2022",
+                  "masked-image-modeling",
+                  "pre-training"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -572,12 +879,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "i-mae Pytorch Repo",
+                "homepage": null,
                 "id": 554977816,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-06T15:05:18Z",
+                "open_issues": 1,
                 "owner": "VILA-Lab",
                 "repo": "i-mae",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -588,12 +900,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVIU 2025] Learning to Mask and Permute Visual Tokens for Vision Transformer Pre-Training",
+                "homepage": null,
                 "id": 648215359,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-01T08:11:31Z",
+                "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "MaPeT",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -604,12 +921,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting",
+                "homepage": null,
                 "id": 614757912,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-11-30T03:21:16Z",
+                "open_issues": 4,
                 "owner": "shikiw",
                 "repo": "RobustMAE",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -620,12 +942,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of Disjoint Masking with Joint Distillation for Efficient Masked Image Modeling",
+                "homepage": null,
                 "id": 583892036,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-03T01:20:22Z",
+                "open_issues": 1,
                 "owner": "mx-mark",
                 "repo": "DMJD",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -636,12 +963,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SDMAE",
+                "homepage": null,
                 "id": 576613227,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-10T06:57:58Z",
+                "open_issues": 0,
                 "owner": "Talented-Q",
                 "repo": "SDMAE",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -652,12 +984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 654202324,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-15T15:47:03Z",
+                "open_issues": 0,
                 "owner": "OpenPerceptionX",
                 "repo": "maskalign",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -668,12 +1005,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 683729215,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-27T14:19:20Z",
+                "open_issues": 5,
                 "owner": "aojunzz",
                 "repo": "SparseMAE",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -691,12 +1033,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Masked Siamese Networks for Label-Efficient Learning (https://arxiv.org/abs/2204.07141)",
+                "homepage": null,
                 "id": 480844839,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-09T19:03:07Z",
+                "open_issues": 16,
                 "owner": "facebookresearch",
                 "repo": "msn",
-                "stars": 463
+                "stars": 463,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -707,12 +1054,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of CMAE https://arxiv.org/abs/2207.13532 and https://ieeexplore.ieee.org/document/10330745",
+                "homepage": null,
                 "id": 519725186,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-27T04:03:34Z",
+                "open_issues": 7,
                 "owner": "ZhichengHuang",
                 "repo": "CMAE",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -723,12 +1075,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2024] This repository includes the official implementation of our paper \"Rejuvenating image-GPT as Strong Visual Representation Learners\"",
+                "homepage": null,
                 "id": 727352456,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-03T00:43:11Z",
+                "open_issues": 0,
                 "owner": "OliverRensu",
                 "repo": "D-iGPT",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "autoregressive",
+                  "deep-learning",
+                  "pytorch",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -739,12 +1101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for NeurIPS 2022 Paper: How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders",
+                "homepage": null,
                 "id": 551307187,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-17T12:32:59Z",
+                "open_issues": 1,
                 "owner": "zhangq327",
                 "repo": "U-MAE",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -755,12 +1122,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'23] DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions",
+                "homepage": null,
                 "id": 690460469,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-30T08:31:17Z",
+                "open_issues": 3,
                 "owner": "Haochen-Wang409",
                 "repo": "DropPos",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "ade20k",
+                  "coco",
+                  "computer-vision",
+                  "deep-learning",
+                  "detection",
+                  "image-classification",
+                  "imagenet",
+                  "neurips-2023",
+                  "position-embedding",
+                  "segmentation",
+                  "self-supervised-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -771,12 +1156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official codes for ConMIM (ICLR 2023)",
+                "homepage": null,
                 "id": 542928222,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-08T18:27:22Z",
+                "open_issues": 6,
                 "owner": "TencentARC",
                 "repo": "ConMIM",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -787,12 +1177,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2023 Oral] CoMAE: Single Model Hybrid Pre-training on Small-Scale RGB-D Datasets",
+                "homepage": null,
                 "id": 601856713,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-20T03:51:52Z",
+                "open_issues": 4,
                 "owner": "MCG-NJU",
                 "repo": "CoMAE",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "aaai2023",
+                  "pre-training",
+                  "rgb-d"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -803,12 +1202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2023] “ Layer Grafted Pre-training: Bridging Contrastive Learning And Masked Image Modeling For Better Representations”,  Ziyu Jiang, Yinpeng Chen, Mengchen Liu, Dongdong Chen, Xiyang Dai, Lu Yuan, Zicheng Liu, Zhangyang Wang",
+                "homepage": null,
                 "id": 602725007,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-16T20:15:45Z",
+                "open_issues": 1,
                 "owner": "VITA-Group",
                 "repo": "layerGraftedPretraining_ICLR23",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -819,12 +1223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 510623462,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-07T17:10:54Z",
+                "open_issues": 0,
                 "owner": "fundamentalvision",
                 "repo": "Siamese-Image-Modeling",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -835,12 +1244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICLR 2023 paper",
+                "homepage": null,
                 "id": 597970424,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-17T03:12:52Z",
+                "open_issues": 1,
                 "owner": "Sherrylone",
                 "repo": "ccMIM",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -858,12 +1272,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code release for ConvNeXt V2 model",
+                "homepage": null,
                 "id": 583488732,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-14T15:00:28Z",
+                "open_issues": 62,
                 "owner": "facebookresearch",
                 "repo": "ConvNeXt-V2",
-                "stars": 2069
+                "stars": 2069,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -874,12 +1293,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR'23 Spotlight🔥] The first successful BERT/MAE-style pretraining on any convolutional network; Pytorch impl. of \"Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling\"",
+                "homepage": "https://arxiv.org/abs/2301.03580",
                 "id": 585553796,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-23T06:15:47Z",
+                "open_issues": 16,
                 "owner": "keyu-tian",
                 "repo": "SparK",
-                "stars": 1376
+                "stars": 1376,
+                "topics": [
+                  "bert",
+                  "cnn",
+                  "convnet",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "iclr",
+                  "iclr2023",
+                  "instance-segmentation",
+                  "mae",
+                  "mask-rcnn",
+                  "masked-autoencoder",
+                  "masked-image-modeling",
+                  "object-detection",
+                  "pre-trained-model",
+                  "pretrain",
+                  "pretraining",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "sparse-convolution",
+                  "ssl"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -890,12 +1335,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2016] Unsupervised Feature Learning by Image Inpainting using GANs",
+                "homepage": "https://www.cs.cmu.edu/~dpathak/context_encoder/",
                 "id": 56881233,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-19T21:37:48Z",
+                "open_issues": 117,
                 "owner": "pathak22",
                 "repo": "context-encoder",
-                "stars": 907
+                "stars": 907,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "context-encoders",
+                  "dcgan",
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "image-inpainting",
+                  "machine-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -906,12 +1367,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                "homepage": "https://openmixup.readthedocs.io",
                 "id": 443031097,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-15T10:20:58Z",
+                "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 658
+                "stars": 658,
+                "topics": [
+                  "automix",
+                  "awesome-list",
+                  "awesome-mim",
+                  "awesome-mixup",
+                  "benchmark",
+                  "contrastive-learning",
+                  "data-augmentation",
+                  "data-generation",
+                  "deep-learning",
+                  "image-classifcation",
+                  "imagenet",
+                  "machine-learning",
+                  "masked-image-modeling",
+                  "mixup",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "semi-supervised-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -922,12 +1407,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code of Paper \"Reversible Column Networks\" \"RevColv2\"",
+                "homepage": null,
                 "id": 580996256,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-06T03:46:38Z",
+                "open_issues": 7,
                 "owner": "megvii-research",
                 "repo": "RevCol",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "cnn",
+                  "computer-vision",
+                  "iclr2023",
+                  "mae",
+                  "pytorch",
+                  "transformer",
+                  "vit"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -938,12 +1436,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning",
+                "homepage": null,
                 "id": 493976030,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-02T11:28:41Z",
+                "open_issues": 22,
                 "owner": "Sense-X",
                 "repo": "MixMIM",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "masked-image-modeling",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -954,12 +1460,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for paper \"Masked Frequency Modeling for Self-Supervised Visual Pre-Training\" (https://arxiv.org/pdf/2206.07706.pdf)",
+                "homepage": null,
                 "id": 518343159,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-03T04:46:08Z",
+                "open_issues": 3,
                 "owner": "CoinCheung",
                 "repo": "MFM",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "fft",
+                  "frequency",
+                  "mfm",
+                  "pretrain",
+                  "self-supervised-learning",
+                  "ssl"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -977,12 +1495,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'23 & TPAMI'25] Hard Patches Mining for Masked Image Modeling & Bootstrap Masked Visual Modeling via Hard Patch Mining",
+                "homepage": "https://arxiv.org/pdf/2304.05919.pdf",
                 "id": 611133637,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-16T03:37:27Z",
+                "open_issues": 2,
                 "owner": "Haochen-Wang409",
                 "repo": "HPM",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "ade20k",
+                  "coco",
+                  "computer-vision",
+                  "cvpr2023",
+                  "imagenet",
+                  "masked-autoencoder",
+                  "masked-image-modeling",
+                  "pattern-recognition",
+                  "self-supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -993,12 +1527,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'23] AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders",
+                "homepage": "https://www.wgcban.com/research/adamae",
                 "id": 566133869,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-02T14:44:41Z",
+                "open_issues": 2,
                 "owner": "wgcban",
                 "repo": "adamae",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1009,12 +1548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] What to Hide from Your Students: Attention-Guided Masked Image Modeling",
+                "homepage": "https://arxiv.org/abs/2203.12719",
                 "id": 510660714,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-18T07:53:27Z",
+                "open_issues": 0,
                 "owner": "gkakogeorgiou",
                 "repo": "attmask",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1025,12 +1569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 572955182,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-04T11:09:46Z",
+                "open_issues": 3,
                 "owner": "guijiejie",
                 "repo": "Attention-driven-Masking-and-Throwing",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1041,12 +1590,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 506162703,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-06-28T08:18:08Z",
+                "open_issues": 2,
                 "owner": "YugeTen",
                 "repo": "adios",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1057,12 +1611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022] code for the paper, SemMAE: Semantic-guided masking for learning masked autoencoders",
+                "homepage": null,
                 "id": 545896792,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-18T07:44:04Z",
+                "open_issues": 8,
                 "owner": "ucasligang",
                 "repo": "SemMAE",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1073,12 +1632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for CVPR paper Learning with Noisy labels via Self-supervised Adversarial Noisy Masking",
+                "homepage": null,
                 "id": 723623859,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-25T02:58:37Z",
+                "open_issues": 3,
                 "owner": "yuanpengtu",
                 "repo": "SANM",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -1096,12 +1660,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+                "homepage": "https://aka.ms/GeneralAI",
                 "id": 198350484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T08:16:01Z",
+                "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22196
+                "stars": 22196,
+                "topics": [
+                  "beit",
+                  "beit-3",
+                  "bitnet",
+                  "deepnet",
+                  "document-ai",
+                  "foundation-models",
+                  "kosmos",
+                  "kosmos-1",
+                  "layoutlm",
+                  "layoutxlm",
+                  "llm",
+                  "minilm",
+                  "mllm",
+                  "multimodal",
+                  "nlp",
+                  "pre-trained-model",
+                  "textdiffuser",
+                  "trocr",
+                  "unilm",
+                  "xlm-e"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1112,12 +1702,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multimodal-GPT",
+                "homepage": null,
                 "id": 632871496,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-04T01:42:37Z",
+                "open_issues": 22,
                 "owner": "open-mmlab",
                 "repo": "Multimodal-GPT",
-                "stars": 1512
+                "stars": 1512,
+                "topics": [
+                  "flamingo",
+                  "gpt",
+                  "gpt-4",
+                  "llama",
+                  "multimodal",
+                  "transformer",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1128,12 +1731,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for ICLR 2020 paper \"VL-BERT: Pre-training of Generic Visual-Linguistic Representations\".",
+                "homepage": null,
                 "id": 223335609,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-05-22T22:33:35Z",
+                "open_issues": 21,
                 "owner": "jackroos",
                 "repo": "VL-BERT",
-                "stars": 740
+                "stars": 740,
+                "topics": [
+                  "bert",
+                  "iclr2020",
+                  "pre-training",
+                  "pytorch",
+                  "representation-learning",
+                  "self-supervised-learning",
+                  "vision-and-language",
+                  "vl-bert"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1144,12 +1761,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 730854277,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-15T23:57:13Z",
+                "open_issues": 3,
                 "owner": "allenai",
                 "repo": "unified-io-2",
-                "stars": 648
+                "stars": 648,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1160,12 +1782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation",
+                "homepage": null,
                 "id": 728946471,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-12T05:25:46Z",
+                "open_issues": 2,
                 "owner": "AILab-CVC",
                 "repo": "VL-GPT",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1176,12 +1803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 528458198,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-13T02:33:05Z",
+                "open_issues": 7,
                 "owner": "LightDXY",
                 "repo": "MaskCLIP",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1192,12 +1824,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 771167726,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-31T22:43:13Z",
+                "open_issues": 0,
                 "owner": "Johnathan-Xie",
                 "repo": "sma",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -1215,12 +1852,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Painter & SegGPT Series: Vision Foundation Models from BAAI",
+                "homepage": null,
                 "id": 574615385,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-06T02:39:02Z",
+                "open_issues": 60,
                 "owner": "baaivision",
                 "repo": "Painter",
-                "stars": 2593
+                "stars": 2593,
+                "topics": [
+                  "cvpr2023",
+                  "generalist-model",
+                  "generalist-painter",
+                  "in-context-learning",
+                  "in-context-visual-learning",
+                  "seggpt",
+                  "segmentation-foundation-model"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1231,12 +1881,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ ICLR 2024 ] Official Codebase for \"InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists\"",
+                "homepage": "https://openreview.net/forum?id=Nu9mOSq7eH",
                 "id": 597240369,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-27T09:04:51Z",
+                "open_issues": 3,
                 "owner": "AlaaLab",
                 "repo": "InstructCV",
-                "stars": 461
+                "stars": 461,
+                "topics": [
+                  "diffusion-models",
+                  "generative-model",
+                  "multi-task-learning",
+                  "stable-diffusion",
+                  "text-to-image",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1247,12 +1909,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial Gato: A Generalist Agent",
+                "homepage": null,
                 "id": 506975245,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-14T03:40:54Z",
+                "open_issues": 2,
                 "owner": "OrigamiDream",
                 "repo": "gato",
-                "stars": 220
+                "stars": 220,
+                "topics": [
+                  "gato",
+                  "generalist-agent",
+                  "neural-network",
+                  "tensorflow",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -1270,12 +1943,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis",
+                "homepage": null,
                 "id": 566851786,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-10T07:09:07Z",
+                "open_issues": 37,
                 "owner": "LTH14",
                 "repo": "mage",
-                "stars": 583
+                "stars": 583,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1286,12 +1964,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024] Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective",
+                "homepage": null,
                 "id": 872760851,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-31T12:12:25Z",
+                "open_issues": 2,
                 "owner": "DAMO-NLP-SG",
                 "repo": "DiGIT",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "autoregressive",
+                  "fairseq",
+                  "gpt",
+                  "image-generation",
+                  "language-model",
+                  "neurips",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1302,12 +1993,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024] Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective",
+                "homepage": null,
                 "id": 872760851,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-31T12:12:25Z",
+                "open_issues": 2,
                 "owner": "DAMO-NLP-SG",
                 "repo": "DiGIT",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "autoregressive",
+                  "fairseq",
+                  "gpt",
+                  "image-generation",
+                  "language-model",
+                  "neurips",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1318,12 +2022,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 614294145,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-16T06:33:49Z",
+                "open_issues": 4,
                 "owner": "yuxiaochen1103",
                 "repo": "FDT",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -1341,12 +2050,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch",
+                "homepage": null,
                 "id": 478823173,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-11T19:18:10Z",
+                "open_issues": 73,
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11306
+                "stars": 11306,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "text-to-image"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1357,12 +2075,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PyTorch package for the discrete VAE used for DALL·E.",
+                "homepage": null,
                 "id": 341714203,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-31T15:42:28Z",
+                "open_issues": 75,
                 "owner": "openai",
                 "repo": "DALL-E",
-                "stars": 10834
+                "stars": 10834,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1373,12 +2096,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taming Transformers for High-Resolution Image Synthesis",
+                "homepage": "https://arxiv.org/abs/2012.09841",
                 "id": 322324704,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-07-30T18:27:31Z",
+                "open_issues": 167,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6521
+                "stars": 6521,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1389,12 +2117,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A unified 3D Transformer Pipeline for visual synthesis",
+                "homepage": null,
                 "id": 424157023,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-29T09:07:41Z",
+                "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "NUWA",
-                "stars": 2791
+                "stars": 2791,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1405,12 +2138,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 262168687,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-29T00:03:56Z",
+                "open_issues": 12,
                 "owner": "openai",
                 "repo": "image-gpt",
-                "stars": 2096
+                "stars": 2096,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1421,12 +2159,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autoregressive Model Beats Diffusion: 🦙 Llama for Scalable Image Generation",
+                "homepage": "https://arxiv.org/abs/2406.06525",
                 "id": 809671338,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-15T20:10:35Z",
+                "open_issues": 72,
                 "owner": "FoundationVision",
                 "repo": "LlamaGen",
-                "stars": 1966
+                "stars": 1966,
+                "topics": [
+                  "auto-regressive-model",
+                  "diffusion",
+                  "diffusion-models",
+                  "image-generation",
+                  "llama",
+                  "llm",
+                  "text2image"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1437,12 +2188,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Generating Diverse High-Fidelity Images with VQ-VAE-2 in PyTorch",
+                "homepage": null,
                 "id": 191072466,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-15T00:52:00Z",
+                "open_issues": 48,
                 "owner": "rosinality",
                 "repo": "vq-vae-2-pytorch",
-                "stars": 1803
+                "stars": 1803,
+                "topics": [
+                  "vq-vae",
+                  "vq-vae-2"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1453,12 +2212,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official JAX implementation of MAGVIT: Masked Generative Video Transformer",
+                "homepage": "https://magvit.cs.cmu.edu",
                 "id": 572747506,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-17T18:06:44Z",
+                "open_issues": 21,
                 "owner": "google-research",
                 "repo": "magvit",
-                "stars": 1001
+                "stars": 1001,
+                "topics": [
+                  "generative-model",
+                  "transformers",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1469,12 +2237,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vector Quantized VAEs - PyTorch Implementation",
+                "homepage": null,
                 "id": 130274507,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-12T07:59:11Z",
+                "open_issues": 9,
                 "owner": "ritheshkumar95",
                 "repo": "pytorch-vqvae",
-                "stars": 954
+                "stars": 954,
+                "topics": [
+                  "deep-learning",
+                  "generative-models",
+                  "pytorch",
+                  "vae",
+                  "vq-vae"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1485,12 +2264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of RCG https://arxiv.org/abs/2312.03701",
+                "homepage": null,
                 "id": 725851840,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-27T20:23:50Z",
+                "open_issues": 27,
                 "owner": "LTH14",
                 "repo": "rcg",
-                "stars": 941
+                "stars": 941,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1501,12 +2285,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] OneLLM: One Framework to Align All Modalities with Language",
+                "homepage": null,
                 "id": 723997853,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-22T03:51:20Z",
+                "open_issues": 20,
                 "owner": "csuhan",
                 "repo": "OneLLM",
-                "stars": 665
+                "stars": 665,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1517,12 +2306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Masked Diffusion Transformer is the SOTA for image synthesis. (ICCV 2023)",
+                "homepage": null,
                 "id": 615247261,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-23T18:53:04Z",
+                "open_issues": 18,
                 "owner": "sail-sg",
                 "repo": "MDT",
-                "stars": 596
+                "stars": 596,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1533,12 +2327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Masked Diffusion Transformer is the SOTA for image synthesis. (ICCV 2023)",
+                "homepage": null,
                 "id": 615247261,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-23T18:53:04Z",
+                "open_issues": 18,
                 "owner": "sail-sg",
                 "repo": "MDT",
-                "stars": 596
+                "stars": 596,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1549,12 +2348,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official Jax Implementation of MaskGIT",
+                "homepage": null,
                 "id": 478610318,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-18T17:05:15Z",
+                "open_issues": 12,
                 "owner": "google-research",
                 "repo": "maskgit",
-                "stars": 562
+                "stars": 562,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1565,12 +2369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch Implementation of Our CVPR2023 Paper: \"Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization\"",
+                "homepage": null,
                 "id": 611555900,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-23T13:53:49Z",
+                "open_issues": 6,
                 "owner": "CrossmodalGroup",
                 "repo": "DynamicVectorQuantization",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1581,12 +2390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 810596849,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-28T01:43:33Z",
+                "open_issues": 12,
                 "owner": "zh460045050",
                 "repo": "VQGAN-LC",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1597,12 +2411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 765607757,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-21T09:29:26Z",
+                "open_issues": 9,
                 "owner": "zh460045050",
                 "repo": "V2L-Tokenizer",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1613,12 +2432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ImageBART: Bidirectional Context with Multinomial Diffusion for Autoregressive Image Synthesis",
+                "homepage": "https://arxiv.org/abs/2108.08827",
                 "id": 398005609,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-14T20:03:30Z",
+                "open_issues": 4,
                 "owner": "CompVis",
                 "repo": "imagebart",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1629,12 +2453,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language Quantized AutoEncoders",
+                "homepage": null,
                 "id": 596869278,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-07T19:15:29Z",
+                "open_issues": 3,
                 "owner": "haoliuhl",
                 "repo": "language-quantized-autoencoders",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "autoencoders",
+                  "bert",
+                  "large-language-models",
+                  "multimodal",
+                  "roberta",
+                  "vq",
+                  "vqvae"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1645,12 +2482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch Implementation of Our CVPR2023 Paper: \"Not All Image Regions Matter: Masked Vector Quantization for Autoregressive Image Generation\"",
+                "homepage": null,
                 "id": 614735251,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-21T10:01:15Z",
+                "open_issues": 6,
                 "owner": "CrossmodalGroup",
                 "repo": "MaskedVectorQuantization",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1661,12 +2503,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow Implementation of \"Theory and Experiments on Vector Quantized Autoencoders\"",
+                "homepage": null,
                 "id": 171448690,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-02-27T06:00:46Z",
+                "open_issues": 0,
                 "owner": "jaywalnut310",
                 "repo": "Vector-Quantized-Autoencoders",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "autoencoder",
+                  "deep-learning",
+                  "tensorflow",
+                  "transformer",
+                  "vae",
+                  "vqvae",
+                  "wmt"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1677,12 +2532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow implementation of DVAE#: Discrete Variational Autoencoders with Relaxed Boltzmann Priors",
+                "homepage": "https://arxiv.org/abs/1805.07445",
                 "id": 148389616,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-09-11T23:00:09Z",
+                "open_issues": 0,
                 "owner": "xmax1",
                 "repo": "dvae",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1693,12 +2553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow implementation of DVAE#: Discrete Variational Autoencoders with Relaxed Boltzmann Priors",
+                "homepage": "https://arxiv.org/abs/1805.07445",
                 "id": 148389616,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-09-11T23:00:09Z",
+                "open_issues": 0,
                 "owner": "xmax1",
                 "repo": "dvae",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -1722,12 +2587,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything",
+                "homepage": null,
                 "id": 724423300,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-24T08:36:39Z",
+                "open_issues": 54,
                 "owner": "yformer",
                 "repo": "EfficientSAM",
-                "stars": 2492
+                "stars": 2492,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1738,12 +2608,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] You Only Look at One Partial Sequence",
+                "homepage": "https://arxiv.org/abs/2204.02964",
                 "id": 476640733,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-21T03:43:34Z",
+                "open_issues": 9,
                 "owner": "hustvl",
                 "repo": "MIMDet",
-                "stars": 343
+                "stars": 343,
+                "topics": [
+                  "computer-vision",
+                  "instance-segmentation",
+                  "mae",
+                  "masked-image-modeling",
+                  "object-detection",
+                  "transformer",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1754,12 +2637,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(CVPR2023/TPAMI2024) Integrally Pre-Trained Transformer Pyramid Networks -- A Hierarchical Vision Transformer for Masked Image Modeling",
+                "homepage": null,
                 "id": 567984100,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-28T01:35:09Z",
+                "open_issues": 13,
                 "owner": "sunsmarterjie",
                 "repo": "iTPN",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1770,12 +2658,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch Implementation of Object Recognition as Next Token Prediction [CVPR'24 Highlight] ",
+                "homepage": "https://arxiv.org/abs/2312.02142",
                 "id": 727386493,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-01T15:49:07Z",
+                "open_issues": 3,
                 "owner": "kaiyuyue",
                 "repo": "nxtp",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "auto-regression",
+                  "open-vocabulary",
+                  "recognition"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1786,12 +2683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2023] Official implementation of “PiMAE: Point cloud and Image Interactive Masked Autoencoders for 3D Object Detecion”",
+                "homepage": null,
                 "id": 614175577,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-12T15:49:59Z",
+                "open_issues": 8,
                 "owner": "antonioo-c",
                 "repo": "PiMAE",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1802,12 +2704,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection",
+                "homepage": "https://arxiv.org/abs/2205.09613",
                 "id": 572988959,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-15T02:08:55Z",
+                "open_issues": 2,
                 "owner": "LiewFeng",
                 "repo": "imTED",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "few-shot-object-detection",
+                  "iccv2023",
+                  "object-detection",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1818,12 +2730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of paper: Masked Retraining Teacher-student Framework for domain adaptive object detection. (ICCV2023)",
+                "homepage": null,
                 "id": 673170396,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-21T09:39:59Z",
+                "open_issues": 3,
                 "owner": "JeremyZhao1998",
                 "repo": "MRT-release",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -1841,12 +2758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.",
+                "homepage": null,
                 "id": 203465734,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-16T11:07:10Z",
+                "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7411
+                "stars": 7411,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1857,12 +2779,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A unified 3D Transformer Pipeline for visual synthesis",
+                "homepage": null,
                 "id": 424157023,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-29T09:07:41Z",
+                "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "NUWA",
-                "stars": 2791
+                "stars": 2791,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1873,12 +2800,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A unified 3D Transformer Pipeline for visual synthesis",
+                "homepage": null,
                 "id": 424157023,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-29T09:07:41Z",
+                "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "NUWA",
-                "stars": 2791
+                "stars": 2791,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1889,12 +2821,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A unified 3D Transformer Pipeline for visual synthesis",
+                "homepage": null,
                 "id": 424157023,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-29T09:07:41Z",
+                "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "NUWA",
-                "stars": 2791
+                "stars": 2791,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1905,12 +2842,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022 Spotlight] VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training",
+                "homepage": "https://arxiv.org/abs/2203.12602",
                 "id": 473059611,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-08T13:44:48Z",
+                "open_issues": 50,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1786
+                "stars": 1786,
+                "topics": [
+                  "action-recognition",
+                  "mae",
+                  "masked-autoencoder",
+                  "neurips-2022",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "transformer",
+                  "video-analysis",
+                  "video-representation-learning",
+                  "video-transformer",
+                  "video-understanding",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1921,12 +2876,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022 Spotlight] VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training",
+                "homepage": "https://arxiv.org/abs/2203.12602",
                 "id": 473059611,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-08T13:44:48Z",
+                "open_issues": 50,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1786
+                "stars": 1786,
+                "topics": [
+                  "action-recognition",
+                  "mae",
+                  "masked-autoencoder",
+                  "neurips-2022",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "transformer",
+                  "video-analysis",
+                  "video-representation-learning",
+                  "video-transformer",
+                  "video-understanding",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1937,12 +2910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 352184971,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-09-18T03:33:55Z",
+                "open_issues": 15,
                 "owner": "wilson1yan",
                 "repo": "VideoGPT",
-                "stars": 1081
+                "stars": 1081,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1953,12 +2931,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official JAX implementation of MAGVIT: Masked Generative Video Transformer",
+                "homepage": "https://magvit.cs.cmu.edu",
                 "id": 572747506,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-17T18:06:44Z",
+                "open_issues": 21,
                 "owner": "google-research",
                 "repo": "magvit",
-                "stars": 1001
+                "stars": 1001,
+                "topics": [
+                  "generative-model",
+                  "transformers",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1969,12 +2956,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Omnivore: A Single Model for Many Visual Modalities",
+                "homepage": null,
                 "id": 449912482,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-12T15:16:35Z",
+                "open_issues": 8,
                 "owner": "facebookresearch",
                 "repo": "omnivore",
-                "stars": 573
+                "stars": 573,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -1985,12 +2977,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV-2023] Official code for work \"HumanMAC: Masked Motion Completion for Human Motion Prediction\".",
+                "homepage": "https://lhchen.top/Human-MAC",
                 "id": 598705038,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-05T21:06:49Z",
+                "open_issues": 5,
                 "owner": "LinghaoChan",
                 "repo": "HumanMAC",
-                "stars": 327
+                "stars": 327,
+                "topics": [
+                  "diffusion-models",
+                  "diversity",
+                  "motion",
+                  "motion-forecasting",
+                  "motion-generation",
+                  "motion-prediction",
+                  "pose-forecasting",
+                  "pose-prediction"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2001,12 +3007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR2024] The official implementation of paper \"VDT: General-purpose Video Diffusion Transformers via Mask Modeling\", by Haoyu Lu, Guoxing Yang, Nanyi Fei, Yuqi Huo, Zhiwu Lu, Ping Luo, Mingyu Ding.",
+                "homepage": null,
                 "id": 642442394,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-05T12:10:52Z",
+                "open_issues": 7,
                 "owner": "RERV",
                 "repo": "VDT",
-                "stars": 257
+                "stars": 257,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2017,12 +3028,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV'2023] Forecast-MAE: Self-supervised Pre-training for Motion Forecasting with Masked Autoencoders",
+                "homepage": "https://arxiv.org/pdf/2308.09882.pdf",
                 "id": 679579297,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-12-19T03:08:02Z",
+                "open_issues": 11,
                 "owner": "jchengai",
                 "repo": "forecast-mae",
-                "stars": 223
+                "stars": 223,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2033,12 +3049,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of BEVT (CVPR 2022) https://arxiv.org/abs/2112.01529",
+                "homepage": null,
                 "id": 465185914,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-19T06:38:26Z",
+                "open_issues": 3,
                 "owner": "xyzforever",
                 "repo": "BEVT",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "action-recognition",
+                  "bert",
+                  "deep-learning",
+                  "foundation-models",
+                  "masked-autoencoder",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "video-representation-learning",
+                  "video-understanding"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2049,12 +3080,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for \"Bridging Video-text Retrieval with Multiple Choice Questions\", CVPR 2022 (Oral).",
+                "homepage": null,
                 "id": 470840304,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-07-20T04:41:45Z",
+                "open_issues": 14,
                 "owner": "TencentARC",
                 "repo": "MCQ",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2065,12 +3101,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2023] Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning (https://arxiv.org/abs/2212.04500)",
+                "homepage": null,
                 "id": 575730050,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-05-21T03:01:44Z",
+                "open_issues": 3,
                 "owner": "ruiwang2021",
                 "repo": "mvd",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "action-recognition",
+                  "cvpr2023",
+                  "masked-autoencoder",
+                  "self-supervised-learning",
+                  "video-representation-learning",
+                  "video-understanding",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2081,12 +3130,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training",
+                "homepage": null,
                 "id": 664752737,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-08-02T14:31:22Z",
+                "open_issues": 6,
                 "owner": "HongYan1123",
                 "repo": "SkeletonMAE",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2097,12 +3151,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'23] AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders",
+                "homepage": "https://www.wgcban.com/research/adamae",
                 "id": 566133869,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-02T14:44:41Z",
+                "open_issues": 2,
                 "owner": "wgcban",
                 "repo": "adamae",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2113,12 +3172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 618281176,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-09-24T16:12:32Z",
+                "open_issues": 1,
                 "owner": "jimmy-dq",
                 "repo": "DropMAE",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2129,12 +3193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 506409302,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-06-22T22:17:04Z",
+                "open_issues": 3,
                 "owner": "agrimgupta92",
                 "repo": "maskvit",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2145,12 +3214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the ICCV 2023 paper \"Masked Motion Predictors are Strong 3D Action Representation Learners\"",
+                "homepage": null,
                 "id": 599840615,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-22T11:35:20Z",
+                "open_issues": 3,
                 "owner": "maoyunyao",
                 "repo": "MAMP",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2161,12 +3235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] GeoMIM: towards better 3d knowledge transfer via masked image modeling for multi-view 3d understanding",
+                "homepage": null,
                 "id": 683967537,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-28T08:09:47Z",
+                "open_issues": 2,
                 "owner": "Sense-X",
                 "repo": "GeoMIM",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2177,12 +3256,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official project of ACM MM 2022 paper \"Less is More: Consistent Video Depth Estimation with Masked Frames Modeling\". ",
+                "homepage": null,
                 "id": 526100742,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-18T11:24:45Z",
+                "open_issues": 2,
                 "owner": "RaymondWang987",
                 "repo": "FMNet",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2193,12 +3277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] MGMAE: Motion Guided Masking for Video Masked Autoencoding",
+                "homepage": null,
                 "id": 681425047,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-16T06:54:18Z",
+                "open_issues": 2,
                 "owner": "MCG-NJU",
                 "repo": "MGMAE",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2209,12 +3298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-Supervised Video Representation Learning with Motion-Aware Masked Autoencoders",
+                "homepage": null,
                 "id": 547162819,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-22T12:27:16Z",
+                "open_issues": 2,
                 "owner": "happy-hsy",
                 "repo": "MotionMAE",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -2232,12 +3326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] This repository includes the official implementation our paper \"Masked Autoencoders Enable Efficient Knowledge Distillers\"",
+                "homepage": null,
                 "id": 527661994,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-24T16:37:20Z",
+                "open_issues": 4,
                 "owner": "UCSC-VLAA",
                 "repo": "DMAE",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2248,12 +3347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 607589065,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-31T09:35:07Z",
+                "open_issues": 5,
                 "owner": "pengzhiliang",
                 "repo": "G2SD",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -2271,12 +3375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the paper \"Masked Autoencoders are Efficient Class Incremental Learners\"",
+                "homepage": null,
                 "id": 673170257,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-04T12:39:38Z",
+                "open_issues": 0,
                 "owner": "scok30",
                 "repo": "MAE-CIL",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2287,12 +3396,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 630465030,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-04T16:25:07Z",
+                "open_issues": 0,
                 "owner": "ml-jku",
                 "repo": "MAE-CT",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2303,12 +3417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] Code for the paper \"Masked Images Are Counterfactual Samples for Robust Fine-tuning\"",
+                "homepage": null,
                 "id": 618463140,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-24T14:34:07Z",
+                "open_issues": 0,
                 "owner": "Coxy7",
                 "repo": "robust-finetuning",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -2326,12 +3445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of GCMAE",
+                "homepage": "https://doi.org/10.1016/j.patcog.2024.110745",
                 "id": 492746635,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-08T07:29:56Z",
+                "open_issues": 3,
                 "owner": "StarUniversus",
                 "repo": "gcmae",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2342,12 +3466,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 717722355,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-06T13:37:17Z",
+                "open_issues": 2,
                 "owner": "sbasu276",
                 "repo": "FocusMAE",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -2365,12 +3494,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+                "homepage": "https://aka.ms/GeneralAI",
                 "id": 198350484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T08:16:01Z",
+                "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22196
+                "stars": 22196,
+                "topics": [
+                  "beit",
+                  "beit-3",
+                  "bitnet",
+                  "deepnet",
+                  "document-ai",
+                  "foundation-models",
+                  "kosmos",
+                  "kosmos-1",
+                  "layoutlm",
+                  "layoutxlm",
+                  "llm",
+                  "minilm",
+                  "mllm",
+                  "multimodal",
+                  "nlp",
+                  "pre-trained-model",
+                  "textdiffuser",
+                  "trocr",
+                  "unilm",
+                  "xlm-e"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -2388,12 +3543,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of paper \"Unified Self-Supervised Learning Framework for Remote Sensing Images\".",
+                "homepage": null,
                 "id": 584791471,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-26T12:51:40Z",
+                "open_issues": 12,
                 "owner": "NJU-LHRS",
                 "repo": "official-CMID",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -2411,12 +3571,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Utonia (ICML'26), Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)",
+                "homepage": null,
                 "id": 617093311,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T04:44:30Z",
+                "open_issues": 363,
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3198
+                "stars": 3198,
+                "topics": [
+                  "3d-vision",
+                  "point-cloud",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2427,12 +3596,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]",
+                "homepage": null,
                 "id": 604443736,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-07T22:46:17Z",
+                "open_issues": 38,
                 "owner": "NVlabs",
                 "repo": "VoxFormer",
-                "stars": 1208
+                "stars": 1208,
+                "topics": [
+                  "2d-to-3d",
+                  "3d-perception",
+                  "3d-scene-understanding",
+                  "artificial-intelligence",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "computer-vision",
+                  "deep-learning",
+                  "machine-learning",
+                  "occupancy-grid-map",
+                  "semantic-scene-completion",
+                  "semantickitti",
+                  "vision-transformer",
+                  "voxel-proceessing"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2443,12 +3632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] Pre-Training 3D Point Cloud Transformers with Masked Point Modeling",
+                "homepage": null,
                 "id": 430593349,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-22T03:52:32Z",
+                "open_issues": 30,
                 "owner": "Julie-tang00",
                 "repo": "Point-BERT",
-                "stars": 696
+                "stars": 696,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2459,12 +3653,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2022] Masked Autoencoders for Point Cloud Self-supervised Learning",
+                "homepage": null,
                 "id": 467804363,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-31T12:22:57Z",
+                "open_issues": 2,
                 "owner": "Pang-Yatian",
                 "repo": "Point-MAE",
-                "stars": 638
+                "stars": 638,
+                "topics": [
+                  "point-cloud",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2475,12 +3677,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2023] PointGPT: Auto-regressively Generative Pre-training from Point Clouds",
+                "homepage": null,
                 "id": 644185152,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-01T07:37:00Z",
+                "open_issues": 16,
                 "owner": "CGuangyan-BIT",
                 "repo": "PointGPT",
-                "stars": 247
+                "stars": 247,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2491,12 +3698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders",
+                "homepage": null,
                 "id": 577860135,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-10T05:33:00Z",
+                "open_issues": 7,
                 "owner": "ZrrSkywalker",
                 "repo": "I2P-MAE",
-                "stars": 230
+                "stars": 230,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2507,12 +3719,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022] Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training",
+                "homepage": null,
                 "id": 497290401,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-04T14:55:24Z",
+                "open_issues": 14,
                 "owner": "ZrrSkywalker",
                 "repo": "Point-M2AE",
-                "stars": 228
+                "stars": 228,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2523,12 +3740,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UniPAD: A Universal Pre-training Paradigm for Autonomous Driving (CVPR 2024)",
+                "homepage": "https://arxiv.org/abs/2310.08370",
                 "id": 704370807,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-09T03:13:09Z",
+                "open_issues": 5,
                 "owner": "Nightmare-n",
                 "repo": "UniPAD",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2539,12 +3761,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2023] Contrast with Reconstruct: Contrastive 3D Representation Learning Guided by Generative Pretraining",
+                "homepage": "https://arxiv.org/abs/2302.02318",
                 "id": 598482835,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-21T18:15:20Z",
+                "open_issues": 0,
                 "owner": "qizekun",
                 "repo": "ReCon",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "3d-point-clouds",
+                  "multi-modal-learning",
+                  "representation-learning",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2555,12 +3787,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] Pytorch code for our ECCV'24 paper NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields",
+                "homepage": "https://nerf-mae.github.io/",
                 "id": 778034087,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-20T14:29:57Z",
+                "open_issues": 0,
                 "owner": "zubair-irshad",
                 "repo": "NeRF-MAE",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "3d",
+                  "3d-deep-learning",
+                  "3d-detection",
+                  "3d-unet",
+                  "differentiable-rendering",
+                  "feature-pyramid-network",
+                  "instant-ngp",
+                  "masked-autoencoder",
+                  "multi-view",
+                  "nerf",
+                  "neural-radiance-fields",
+                  "neural-rendering",
+                  "region-proposal-network",
+                  "representation-learning",
+                  "self-supervised-learning",
+                  "semantic-segmantation",
+                  "super-resoluion",
+                  "transformers",
+                  "vision-transformers",
+                  "vit"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2571,12 +3829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] Masked Discrimination for Self-Supervised Learning on Point Clouds",
+                "homepage": null,
                 "id": 472115723,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-08-28T01:39:41Z",
+                "open_issues": 5,
                 "owner": "WisconsinAIVision",
                 "repo": "MaskPoint",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2587,12 +3850,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of the paper - GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training",
+                "homepage": null,
                 "id": 618717059,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-18T06:13:48Z",
+                "open_issues": 6,
                 "owner": "Tsinghua-MARS-Lab",
                 "repo": "GeoMAE",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2603,12 +3871,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 667672317,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-04T02:57:24Z",
+                "open_issues": 1,
                 "owner": "JohnsonSign",
                 "repo": "MaST-Pre",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2619,12 +3892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MATE: Masked Autoencoders are Online 3D Test-Time Learners     (ICCV 2023)",
+                "homepage": null,
                 "id": 616079193,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-22T12:19:50Z",
+                "open_issues": 3,
                 "owner": "jmiemirza",
                 "repo": "MATE",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2635,12 +3913,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code of paper \"General Point Model Pretraining with Autoencoding and Autoregressive\" accepted by CVPR'24",
+                "homepage": null,
                 "id": 767647510,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-05T17:01:00Z",
+                "open_issues": 2,
                 "owner": "gentlefress",
                 "repo": "GPM",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -2658,12 +3941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for CVPR2023 paper \"DegAE: A New Pretraining Paradigm for Low-level Vision\"",
+                "homepage": null,
                 "id": 672802156,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-04T02:17:58Z",
+                "open_issues": 7,
                 "owner": "lyh-18",
                 "repo": "DegAE_DegradationAutoencoder",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2674,12 +3962,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥Official PyTorch implementation for \"LM4LV: A Frozen Large Language Model for Low-level Vision Tasks\".",
+                "homepage": null,
                 "id": 813682067,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-12T02:50:56Z",
+                "open_issues": 3,
                 "owner": "bytetriper",
                 "repo": "LM4LV",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -2701,12 +3994,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+            "homepage": null,
             "id": 101782647,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T11:16:06Z",
+            "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32232,
+            "topics": [
+              "artificial-intelligence",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         },
@@ -2717,12 +4019,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+            "homepage": null,
             "id": 101782647,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T11:16:06Z",
+            "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32232,
+            "topics": [
+              "artificial-intelligence",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         },
@@ -2733,12 +4044,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+            "homepage": null,
             "id": 101782647,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T11:16:06Z",
+            "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32232,
+            "topics": [
+              "artificial-intelligence",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         },
@@ -2749,12 +4069,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+            "homepage": null,
             "id": 101782647,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T11:16:06Z",
+            "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32232,
+            "topics": [
+              "artificial-intelligence",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         },
@@ -2765,12 +4094,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repo hosts the code and models of \"Masked Autoencoders that Listen\".",
+            "homepage": null,
             "id": 512049788,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-05T11:04:32Z",
+            "open_issues": 21,
             "owner": "facebookresearch",
             "repo": "AudioMAE",
-            "stars": 672
+            "stars": 672,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         },
@@ -2781,12 +4115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public Code for the paper MAE-AST: Masked Autoencoding Audio Spectrogram Transformer",
+            "homepage": null,
             "id": 496107867,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-09T05:43:36Z",
+            "open_issues": 0,
             "owner": "AlanBaade",
             "repo": "MAE-AST-Public",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         },
@@ -2797,12 +4136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Pytorch implementation of paper: Masked Spectrogram Prediction For Self-Supervised Audio Pre-Training",
+            "homepage": null,
             "id": 475260991,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-17T16:39:30Z",
+            "open_issues": 1,
             "owner": "WangHelin1997",
             "repo": "MaskSpec",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         }
@@ -2821,12 +4165,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+                "homepage": null,
                 "id": 291783502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-07T03:31:38Z",
+                "open_issues": 115,
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4170
+                "stars": 4171,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2837,12 +4186,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+                "homepage": null,
                 "id": 291783502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-07T03:31:38Z",
+                "open_issues": 115,
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4170
+                "stars": 4171,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2853,12 +4207,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+                "homepage": null,
                 "id": 291783502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-07T03:31:38Z",
+                "open_issues": 115,
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4170
+                "stars": 4171,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2869,12 +4228,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+                "homepage": null,
                 "id": 291783502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-07T03:31:38Z",
+                "open_issues": 115,
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4170
+                "stars": 4171,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2885,12 +4249,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+                "homepage": null,
                 "id": 291783502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-07T03:31:38Z",
+                "open_issues": 115,
                 "owner": "facebookresearch",
                 "repo": "esm",
-                "stars": 4170
+                "stars": 4171,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2901,12 +4270,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Foldseek enables fast and sensitive comparisons of large structure sets.",
+                "homepage": "https://foldseek.com",
                 "id": 166769317,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T10:51:23Z",
+                "open_issues": 187,
                 "owner": "steineggerlab",
                 "repo": "foldseek",
-                "stars": 1286
+                "stars": 1286,
+                "topics": [
+                  "alignments",
+                  "bioinformatics",
+                  "clustering",
+                  "protein-structure"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2917,12 +4296,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Saprot: Protein Language Model with Structural Alphabet (AA+3Di)",
+                "homepage": null,
                 "id": 699149724,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-08T13:25:39Z",
+                "open_issues": 26,
                 "owner": "westlake-repl",
                 "repo": "SaProt",
-                "stars": 627
+                "stars": 627,
+                "topics": [
+                  "alphafold2",
+                  "foldseek",
+                  "predicted-structures",
+                  "pretraining",
+                  "protein",
+                  "protein-language-model",
+                  "protein-llm",
+                  "protein-sequence",
+                  "protein-structure",
+                  "representation-learning",
+                  "structural-alphbet",
+                  "structure-aware"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2933,12 +4330,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 344494864,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-04-07T13:39:55Z",
+                "open_issues": 6,
                 "owner": "nadavbra",
                 "repo": "protein_bert",
-                "stars": 583
+                "stars": 583,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2949,12 +4351,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for ICLR 2024 (Spotlight) paper \"MAPE-PPI: Towards Effective and Efficient Protein-Protein Interaction Prediction via Microenvironment-Aware Protein Embedding\"",
+                "homepage": null,
                 "id": 747492608,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-20T08:46:28Z",
+                "open_issues": 7,
                 "owner": "LirongWu",
                 "repo": "MAPE-PPI",
-                "stars": 262
+                "stars": 262,
+                "topics": [
+                  "codebook",
+                  "masked-modeling",
+                  "microenvironment",
+                  "ppi-networks",
+                  "protein-embedding",
+                  "protein-protein-interaction",
+                  "protein-representation-learning",
+                  "vocabulary"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -2965,12 +4381,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for ICML 2024 paper \"Learning to Predict Mutational Effects of Protein-Protein Interactions by Microenvironment-aware Hierarchical Prompt Learning\"",
+                "homepage": null,
                 "id": 796873094,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-08T12:37:59Z",
+                "open_issues": 1,
                 "owner": "LirongWu",
                 "repo": "Prompt-DDG",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "antibody-optimization",
+                  "mutational-effect-prediction",
+                  "prompt-leaning",
+                  "protein-protein-interaction"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -2988,12 +4414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2023] \"Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules\"",
+                "homepage": null,
                 "id": 591894134,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-09T12:31:18Z",
+                "open_issues": 9,
                 "owner": "junxia97",
                 "repo": "Mole-BERT",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -3004,12 +4435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 765501099,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-14T06:23:32Z",
+                "open_issues": 0,
                 "owner": "smiles724",
                 "repo": "VQMAE",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -3027,12 +4463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 627879106,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-15T14:41:05Z",
+                "open_issues": 2,
                 "owner": "Gufrannn",
                 "repo": "W-MAE",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -3054,12 +4495,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our paper \"VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters\".",
+            "homepage": "https://arxiv.org/pdf/2408.17253",
             "id": 847868750,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-13T08:19:39Z",
+            "open_issues": 2,
             "owner": "Keytoyze",
             "repo": "VisionTS",
-            "stars": 282
+            "stars": 282,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         },
@@ -3070,12 +4520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 710555057,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-15T00:02:20Z",
+            "open_issues": 1,
             "owner": "a-antoniades",
             "repo": "Neuroformer",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         },
@@ -3086,12 +4541,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo focuses on supervised and self-supervised bio-sequence representation learning",
+            "homepage": "https://openbioseq.readthedocs.io/en/latest/",
             "id": 495750773,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-11T21:04:22Z",
+            "open_issues": 2,
             "owner": "Westlake-AI",
             "repo": "OpenBioSeq",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "bio-sequences",
+              "classification-regression",
+              "genetic-engineering",
+              "pytorch",
+              "self-supervised",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         }
@@ -3108,12 +4575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code for NeurIPS 2022 Paper: How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders",
+            "homepage": null,
             "id": 551307187,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-17T12:32:59Z",
+            "open_issues": 1,
             "owner": "zhangq327",
             "repo": "U-MAE",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         },
@@ -3124,12 +4596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code for NeurIPS 2022 Paper: How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders",
+            "homepage": null,
             "id": 551307187,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-17T12:32:59Z",
+            "open_issues": 1,
             "owner": "zhangq327",
             "repo": "U-MAE",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         },
@@ -3140,12 +4617,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmark and analysis of 165 pretrained SSL models. Code for \"Evaluating Self-Supervised Learning via Risk Decomposition\".",
+            "homepage": null,
             "id": 452885353,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-07-26T21:30:43Z",
+            "open_issues": 0,
             "owner": "YannDubs",
             "repo": "SSL-Risk-Decomposition",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "benchmark",
+              "deep-learning",
+              "evaluation",
+              "machine-learning",
+              "model-zoo",
+              "pytorch",
+              "representation-learning",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         },
@@ -3156,12 +4647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repo for the CVPR paper, \"Understanding Masked Autoencoders via Hierarchical Latent Variable Models\"\"",
+            "homepage": null,
             "id": 618608525,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-03-24T21:12:15Z",
+            "open_issues": 2,
             "owner": "martinmamql",
             "repo": "mae_understand",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         },
@@ -3172,12 +4668,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers - CV703 Course Project",
+            "homepage": "https://arxiv.org/abs/2205.05543",
             "id": 480381558,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-23T16:53:31Z",
+            "open_issues": 0,
             "owner": "gokulkarthik",
             "repo": "Deformable-DETR",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "detr",
+              "object-detection",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
         }
@@ -3196,12 +4701,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome self-supervised methods",
+                "homepage": null,
                 "id": 120975327,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-24T08:30:02Z",
+                "open_issues": 1,
                 "owner": "jason718",
                 "repo": "awesome-self-supervised-learning",
-                "stars": 6413
+                "stars": 6413,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "reinforcement-learning",
+                  "robotics",
+                  "self-supervised"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -3212,12 +4730,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of literature after or concurrent with Masked Autoencoder (MAE) (Kaiming He el al.).",
+                "homepage": null,
                 "id": 495236064,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-07-10T14:48:42Z",
+                "open_issues": 1,
                 "owner": "EdisonLeeeee",
                 "repo": "Awesome-Masked-Autoencoders",
-                "stars": 868
+                "stars": 868,
+                "topics": [
+                  "mae",
+                  "masked-autoencoder",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -3228,12 +4755,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                "homepage": "https://openmixup.readthedocs.io",
                 "id": 443031097,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-15T10:20:58Z",
+                "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 658
+                "stars": 658,
+                "topics": [
+                  "automix",
+                  "awesome-list",
+                  "awesome-mim",
+                  "awesome-mixup",
+                  "benchmark",
+                  "contrastive-learning",
+                  "data-augmentation",
+                  "data-generation",
+                  "deep-learning",
+                  "image-classifcation",
+                  "imagenet",
+                  "machine-learning",
+                  "masked-image-modeling",
+                  "mixup",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "semi-supervised-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -3244,12 +4795,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reading list for research topics in Masked Image Modeling",
+                "homepage": null,
                 "id": 456432863,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-03T12:51:24Z",
+                "open_issues": 0,
                 "owner": "ucasligang",
                 "repo": "awesome-MIM",
-                "stars": 333
+                "stars": 333,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -3267,12 +4823,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+                "homepage": null,
                 "id": 101782647,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
+                "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32232,
+                "topics": [
+                  "artificial-intelligence",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -3283,12 +4848,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+                "homepage": "https://aka.ms/GeneralAI",
                 "id": 198350484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T08:16:01Z",
+                "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22196
+                "stars": 22196,
+                "topics": [
+                  "beit",
+                  "beit-3",
+                  "bitnet",
+                  "deepnet",
+                  "document-ai",
+                  "foundation-models",
+                  "kosmos",
+                  "kosmos-1",
+                  "layoutlm",
+                  "layoutxlm",
+                  "llm",
+                  "minilm",
+                  "mllm",
+                  "multimodal",
+                  "nlp",
+                  "pre-trained-model",
+                  "textdiffuser",
+                  "trocr",
+                  "unilm",
+                  "xlm-e"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -3299,12 +4890,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenMMLab Pre-training Toolbox and Benchmark",
+                "homepage": "https://mmpretrain.readthedocs.io/en/latest/",
                 "id": 278415292,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-01T06:27:36Z",
+                "open_issues": 273,
                 "owner": "open-mmlab",
                 "repo": "mmpretrain",
-                "stars": 3851
+                "stars": 3851,
+                "topics": [
+                  "beit",
+                  "clip",
+                  "constrastive-learning",
+                  "convnext",
+                  "deep-learning",
+                  "image-classification",
+                  "mae",
+                  "masked-image-modeling",
+                  "mobilenet",
+                  "moco",
+                  "multimodal",
+                  "pretrained-models",
+                  "pytorch",
+                  "resnet",
+                  "self-supervised-learning",
+                  "swin-transformer",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -3315,12 +4929,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python library for self-supervised learning on images.",
+                "homepage": "https://docs.lightly.ai/self-supervised-learning/",
                 "id": 303705119,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:55:27Z",
+                "open_issues": 99,
                 "owner": "lightly-ai",
                 "repo": "lightly",
-                "stars": 3800
+                "stars": 3800,
+                "topics": [
+                  "computer-vision",
+                  "contrastive-learning",
+                  "contributions-welcome",
+                  "deep-learning",
+                  "embeddings",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "pytorch",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -3331,12 +4960,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.",
+                "homepage": "https://vissl.ai",
                 "id": 254462843,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-03-03T01:41:37Z",
+                "open_issues": 81,
                 "owner": "facebookresearch",
                 "repo": "vissl",
-                "stars": 3293
+                "stars": 3293,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -3347,12 +4981,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning",
+                "homepage": null,
                 "id": 345216380,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-27T18:04:22Z",
+                "open_issues": 18,
                 "owner": "vturrisi",
                 "repo": "solo-learn",
-                "stars": 1573
+                "stars": 1573,
+                "topics": [
+                  "barlow-twins",
+                  "byol",
+                  "contrastive-learning",
+                  "deepcluster",
+                  "dino",
+                  "mae",
+                  "masked-input-prediction",
+                  "moco",
+                  "nnclr",
+                  "nvidia-dali",
+                  "pytorch",
+                  "pytorch-lightning",
+                  "ressl",
+                  "self-supervised-learning",
+                  "simclr",
+                  "simsiam",
+                  "swav",
+                  "transformer-models",
+                  "vibcreg",
+                  "vicreg"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             },
@@ -3363,12 +5023,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark",
+                "homepage": "https://openmixup.readthedocs.io",
                 "id": 443031097,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-15T10:20:58Z",
+                "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 658
+                "stars": 658,
+                "topics": [
+                  "automix",
+                  "awesome-list",
+                  "awesome-mim",
+                  "awesome-mixup",
+                  "benchmark",
+                  "contrastive-learning",
+                  "data-augmentation",
+                  "data-generation",
+                  "deep-learning",
+                  "image-classifcation",
+                  "imagenet",
+                  "machine-learning",
+                  "masked-image-modeling",
+                  "mixup",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "semi-supervised-learning",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
             }
@@ -3382,15 +5066,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:31:27.799Z",
+    "last_updated": "2026-08-29T04:46:03.251Z",
     "original_repository_info": {
       "archived": false,
+      "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
+      "homepage": "https://openmixup.readthedocs.io/en/latest/awesome_selfsup/MIM.html",
       "id": 519575795,
       "language": "Python",
+      "license": "Apache-2.0",
       "last_commit": "2025-04-23T21:41:19Z",
+      "open_issues": 1,
       "owner": "Lupin1998",
       "repo": "Awesome-MIM",
-      "stars": 355
+      "stars": 355,
+      "topics": [
+        "awesome-list",
+        "awesome-mim",
+        "bert",
+        "computer-vision",
+        "deep-learning",
+        "generative-models",
+        "gpt",
+        "mae",
+        "masked-autoencoder",
+        "masked-image-modeling",
+        "masked-modeling",
+        "pre-training",
+        "representation-learning",
+        "self-supervised-learning",
+        "vision-transformer"
+      ]
     },
     "original_repository_sha": "70db16f0ad9939ba08d411635d78bafaa8bbfb5d",
     "enhanced_repository": "enhansome/enhansome-Awesome-MIM",
