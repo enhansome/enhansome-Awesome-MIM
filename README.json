@@ -21,7 +21,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32229,
+                "stars": 32230,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -46,7 +46,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32229,
+                "stars": 32230,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -71,7 +71,7 @@
                 "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22200,
+                "stars": 22203,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -113,7 +113,7 @@
                 "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12695,
+                "stars": 12697,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -243,10 +243,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-08-01T14:49:48Z",
-                "open_issues": 79,
+                "open_issues": 80,
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2694,
+                "stars": 2695,
                 "topics": [
                   "foundation-models",
                   "representation-learning",
@@ -268,10 +268,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-08-01T14:49:48Z",
-                "open_issues": 79,
+                "open_issues": 80,
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2694,
+                "stars": 2695,
                 "topics": [
                   "foundation-models",
                   "representation-learning",
@@ -317,7 +317,7 @@
                 "open_issues": 29,
                 "owner": "facebookresearch",
                 "repo": "hiera",
-                "stars": 1076,
+                "stars": 1075,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -1669,7 +1669,7 @@
                 "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22200,
+                "stars": 22203,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -2059,7 +2059,7 @@
                 "open_issues": 73,
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11303,
+                "stars": 11301,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -2105,7 +2105,7 @@
                 "open_issues": 167,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6521,
+                "stars": 6522,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2596,7 +2596,7 @@
                 "open_issues": 54,
                 "owner": "yformer",
                 "repo": "EfficientSAM",
-                "stars": 2493,
+                "stars": 2494,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -3503,7 +3503,7 @@
                 "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22200,
+                "stars": 22203,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3577,10 +3577,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-03T04:44:30Z",
-                "open_issues": 363,
+                "open_issues": 364,
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3201,
+                "stars": 3203,
                 "topics": [
                   "3d-vision",
                   "point-cloud",
@@ -4003,7 +4003,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4028,7 +4028,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4053,7 +4053,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4078,7 +4078,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4279,7 +4279,7 @@
                 "open_issues": 189,
                 "owner": "steineggerlab",
                 "repo": "foldseek",
-                "stars": 1286,
+                "stars": 1287,
                 "topics": [
                   "alignments",
                   "bioinformatics",
@@ -4305,7 +4305,7 @@
                 "open_issues": 26,
                 "owner": "westlake-repl",
                 "repo": "SaProt",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "alphafold2",
                   "foldseek",
@@ -4710,7 +4710,7 @@
                 "open_issues": 1,
                 "owner": "jason718",
                 "repo": "awesome-self-supervised-learning",
-                "stars": 6413,
+                "stars": 6414,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -4832,7 +4832,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32229,
+                "stars": 32230,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -4857,7 +4857,7 @@
                 "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22200,
+                "stars": 22203,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -4934,8 +4934,8 @@
                 "id": 303705119,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T19:14:34Z",
-                "open_issues": 102,
+                "last_commit": "2026-09-01T19:52:11Z",
+                "open_issues": 105,
                 "owner": "lightly-ai",
                 "repo": "lightly",
                 "stars": 3802,
@@ -5066,7 +5066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:20:53.113Z",
+    "last_updated": "2026-09-02T19:21:02.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
