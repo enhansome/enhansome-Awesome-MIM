@@ -134,7 +134,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8369,
+                "stars": 8367,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -155,7 +155,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7414,
+                "stars": 7415,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -215,7 +215,7 @@
                 "open_issues": 61,
                 "owner": "open-mmlab",
                 "repo": "mmselfsup",
-                "stars": 3302,
+                "stars": 3303,
                 "topics": [
                   "beit",
                   "mae",
@@ -2105,7 +2105,7 @@
                 "open_issues": 167,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6522,
+                "stars": 6523,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2221,7 +2221,7 @@
                 "open_issues": 21,
                 "owner": "google-research",
                 "repo": "magvit",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": [
                   "generative-model",
                   "transformers",
@@ -2294,7 +2294,7 @@
                 "open_issues": 20,
                 "owner": "csuhan",
                 "repo": "OneLLM",
-                "stars": 666,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2767,7 +2767,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7414,
+                "stars": 7415,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2851,7 +2851,7 @@
                 "open_issues": 50,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1787,
+                "stars": 1788,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -2885,7 +2885,7 @@
                 "open_issues": 50,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1787,
+                "stars": 1788,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -2919,7 +2919,7 @@
                 "open_issues": 15,
                 "owner": "wilson1yan",
                 "repo": "VideoGPT",
-                "stars": 1081,
+                "stars": 1082,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2940,7 +2940,7 @@
                 "open_issues": 21,
                 "owner": "google-research",
                 "repo": "magvit",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": [
                   "generative-model",
                   "transformers",
@@ -2965,7 +2965,7 @@
                 "open_issues": 8,
                 "owner": "facebookresearch",
                 "repo": "omnivore",
-                "stars": 572,
+                "stars": 571,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -3580,7 +3580,7 @@
                 "open_issues": 364,
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3203,
+                "stars": 3206,
                 "topics": [
                   "3d-vision",
                   "point-cloud",
@@ -4710,7 +4710,7 @@
                 "open_issues": 1,
                 "owner": "jason718",
                 "repo": "awesome-self-supervised-learning",
-                "stars": 6414,
+                "stars": 6416,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -5066,7 +5066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:21:02.808Z",
+    "last_updated": "2026-09-03T19:15:05.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
