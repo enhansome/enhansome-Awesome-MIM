@@ -113,7 +113,7 @@
                 "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12697,
+                "stars": 12700,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -134,7 +134,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8367,
+                "stars": 8366,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -155,7 +155,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7415,
+                "stars": 7416,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -246,7 +246,7 @@
                 "open_issues": 80,
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2695,
+                "stars": 2693,
                 "topics": [
                   "foundation-models",
                   "representation-learning",
@@ -271,7 +271,7 @@
                 "open_issues": 80,
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2695,
+                "stars": 2693,
                 "topics": [
                   "foundation-models",
                   "representation-learning",
@@ -2105,7 +2105,7 @@
                 "open_issues": 167,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6523,
+                "stars": 6522,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2273,7 +2273,7 @@
                 "open_issues": 27,
                 "owner": "LTH14",
                 "repo": "rcg",
-                "stars": 941,
+                "stars": 940,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2646,7 +2646,7 @@
                 "open_issues": 13,
                 "owner": "sunsmarterjie",
                 "repo": "iTPN",
-                "stars": 216,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2767,7 +2767,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7415,
+                "stars": 7416,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2851,7 +2851,7 @@
                 "open_issues": 50,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1788,
+                "stars": 1789,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -2885,7 +2885,7 @@
                 "open_issues": 50,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1788,
+                "stars": 1789,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -2983,7 +2983,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-05-05T21:06:49Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "LinghaoChan",
                 "repo": "HumanMAC",
                 "stars": 327,
@@ -3580,7 +3580,7 @@
                 "open_issues": 364,
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3206,
+                "stars": 3209,
                 "topics": [
                   "3d-vision",
                   "point-cloud",
@@ -3749,7 +3749,7 @@
                 "open_issues": 5,
                 "owner": "Nightmare-n",
                 "repo": "UniPAD",
-                "stars": 205,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4390,7 +4390,7 @@
                 "open_issues": 1,
                 "owner": "LirongWu",
                 "repo": "Prompt-DDG",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "antibody-optimization",
                   "mutational-effect-prediction",
@@ -5066,7 +5066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:15:05.642Z",
+    "last_updated": "2026-09-04T18:57:20.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
