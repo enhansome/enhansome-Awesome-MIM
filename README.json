@@ -113,7 +113,7 @@
                 "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12702,
+                "stars": 12703,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -155,7 +155,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7416,
+                "stars": 7418,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -628,6 +628,27 @@
             },
             {
               "node_type": "item",
+              "title": "Test-Time Training with Masked Autoencoders Yossi Gandelsman, Yu Sun, Xinlei Chen, Alexei A. Efros NeurIPS'2022 [Paper",
+              "description": "] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official github repo for \"Test-Time Training with Masked Autoencoders\"",
+                "homepage": null,
+                "id": 528161538,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2023-11-12T22:54:04Z",
+                "open_issues": 1,
+                "owner": "yossigandelsman",
+                "repo": "test_time_training_mae",
+                "stars": 98,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:31:27.799Z"
+            },
+            {
+              "node_type": "item",
               "title": "Bootstrapped Masked Autoencoders for Vision BERT Pretraining Xiaoyi Dong, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu ECCV'2022 [Paper",
               "description": "] [Code]",
               "children": [],
@@ -643,27 +664,6 @@
                 "owner": "LightDXY",
                 "repo": "BootMAE",
                 "stars": 97,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:31:27.799Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Test-Time Training with Masked Autoencoders Yossi Gandelsman, Yu Sun, Xinlei Chen, Alexei A. Efros NeurIPS'2022 [Paper",
-              "description": "] [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The official github repo for \"Test-Time Training with Masked Autoencoders\"",
-                "homepage": null,
-                "id": 528161538,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-11-12T22:54:04Z",
-                "open_issues": 1,
-                "owner": "yossigandelsman",
-                "repo": "test_time_training_mae",
-                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -1861,7 +1861,7 @@
                 "open_issues": 60,
                 "owner": "baaivision",
                 "repo": "Painter",
-                "stars": 2594,
+                "stars": 2595,
                 "topics": [
                   "cvpr2023",
                   "generalist-model",
@@ -2767,7 +2767,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7416,
+                "stars": 7418,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -3577,10 +3577,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-03T04:44:30Z",
-                "open_issues": 364,
+                "open_issues": 367,
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3210,
+                "stars": 3213,
                 "topics": [
                   "3d-vision",
                   "point-cloud",
@@ -3605,7 +3605,7 @@
                 "open_issues": 38,
                 "owner": "NVlabs",
                 "repo": "VoxFormer",
-                "stars": 1208,
+                "stars": 1209,
                 "topics": [
                   "2d-to-3d",
                   "3d-perception",
@@ -3641,7 +3641,7 @@
                 "open_issues": 30,
                 "owner": "Julie-tang00",
                 "repo": "Point-BERT",
-                "stars": 697,
+                "stars": 699,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4275,8 +4275,8 @@
                 "id": 166769317,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-24T10:51:23Z",
-                "open_issues": 190,
+                "last_commit": "2026-09-09T09:30:49Z",
+                "open_issues": 188,
                 "owner": "steineggerlab",
                 "repo": "foldseek",
                 "stars": 1288,
@@ -4305,7 +4305,7 @@
                 "open_issues": 26,
                 "owner": "westlake-repl",
                 "repo": "SaProt",
-                "stars": 630,
+                "stars": 632,
                 "topics": [
                   "alphafold2",
                   "foldseek",
@@ -4935,10 +4935,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-08T14:03:46Z",
-                "open_issues": 104,
+                "open_issues": 105,
                 "owner": "lightly-ai",
                 "repo": "lightly",
-                "stars": 3802,
+                "stars": 3803,
                 "topics": [
                   "computer-vision",
                   "contrastive-learning",
@@ -5066,7 +5066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:23:25.282Z",
+    "last_updated": "2026-09-09T19:13:27.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
