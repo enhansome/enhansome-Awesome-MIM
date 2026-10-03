@@ -1,12 +1,12 @@
 # Awesome Masked Modeling for Self-supervised Vision Represention and Beyond with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/Lupin1998/Awesome-MIM/graphs/commit-activity) ⭐ 355 | 🐛 1 | 🌐 Python | 📅 2025-04-23 ![GitHub stars](https://img.shields.io/github/stars/Lupin1998/Awesome-MIM?color=blue) ![GitHub forks](https://img.shields.io/github/forks/Lupin1998/Awesome-MIM?color=yellow\&label=Fork)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/Lupin1998/Awesome-MIM/graphs/commit-activity) ![GitHub stars](https://img.shields.io/github/stars/Lupin1998/Awesome-MIM?color=blue) ![GitHub forks](https://img.shields.io/github/forks/Lupin1998/Awesome-MIM?color=yellow\&label=Fork)
 
 ## Introduction
 
 **We summarize awesome Masked Image Modeling (MIM) and relevent Masked Modeling methods proposed for self-supervised representation learning.** *Welcome to add relevant masked modeling paper to our project!*
 
-This project is a part of our **survey on masked modeling methods** ([arXiv](https://arxiv.org/abs/2401.00897)). The list of awesome MIM methods is summarized in chronological order and is on updating. If you find any typos or any missed paper, please feel free to open an issue or send a pull request. Currently, our survey is on updating and here is the [latest version](https://github.com/Lupin1998/Awesome-MIM/blob/master/files/Survey_on_Masked_Modeling_Latest_Version.pdf) ⭐ 355 | 🐛 1 | 🌐 Python | 📅 2025-04-23.
+This project is a part of our **survey on masked modeling methods** ([arXiv](https://arxiv.org/abs/2401.00897)). The list of awesome MIM methods is summarized in chronological order and is on updating. If you find any typos or any missed paper, please feel free to open an issue or send a pull request. Currently, our survey is on updating and here is the [latest version](https://github.com/Lupin1998/Awesome-MIM/blob/master/files/Survey_on_Masked_Modeling_Latest_Version.pdf).
 
 * To find related papers and their relationships, check out [Connected Papers](https://www.connectedpapers.com/), which visualizes the academic field in a graph representation.
 * To export BibTeX citations of papers, check out [arXiv](https://arxiv.org/) or [Semantic Scholar](https://www.semanticscholar.org/) of the paper for professional reference formats.
@@ -1906,7 +1906,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**<br>
   *Haoyi Zhu, Honghui Yang, Xiaoyang Wu, Di Huang, Sha Zhang, Xianglong He, Tong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao, Wanli Ouyang*<br>
   ArXiv'2023 \[[Paper](https://arxiv.org/abs/2310.08586)]
-  \[[Code](https://github.com/Pointcept/Pointcept) ⭐ 3,243 | 🐛 367 | 🌐 Python | 📅 2026-09-11]
+  \[[Code](https://github.com/Pointcept/Pointcept) ⭐ 3,244 | 🐛 367 | 🌐 Python | 📅 2026-09-11]
 
 * **VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion**<br>
   *Yiming Li, Zhiding Yu, Christopher Choy, Chaowei Xiao, Jose M. Alvarez, Sanja Fidler, Chen Feng, Anima Anandkumar*<br>
@@ -2295,11 +2295,11 @@ The overview of the basic MIM framework, containing four building blocks with th
 
 * **Masked Modeling for Self-supervised Representation Learning on Vision and Beyond**<br>
   *Siyuan Li, Luyuan Zhang, Zedong Wang, Di Wu, Lirong Wu, Zicheng Liu, Jun Xia, Cheng Tan, Yang Liu, Baigui Sun, Stan Z. Li*<br>
-  ArXiv'2023 \[[Paper](https://arxiv.org/abs/2401.00897)] \[[Code](https://github.com/Lupin1998/Awesome-MIM) ⭐ 355 | 🐛 1 | 🌐 Python | 📅 2025-04-23]
+  ArXiv'2023 \[[Paper](https://arxiv.org/abs/2401.00897)] \[[Code](https://github.com/Lupin1998/Awesome-MIM)]
 
 ## Contribution
 
-Feel free to send [pull requests](https://github.com/Lupin1998/Awesome-MIM/pulls) ⭐ 355 | 🐛 1 | 🌐 Python | 📅 2025-04-23 to add more links with the following Markdown format. Note that the abbreviation, the code link, and the figure link are optional attributes.
+Feel free to send [pull requests](https://github.com/Lupin1998/Awesome-MIM/pulls) to add more links with the following Markdown format. Note that the abbreviation, the code link, and the figure link are optional attributes.
 
 ```markdown
 * **TITLE**<br>
@@ -2354,4 +2354,4 @@ If you find this repository and our survey helpful, please consider citing our p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
