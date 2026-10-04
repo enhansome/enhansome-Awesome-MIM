@@ -246,7 +246,7 @@
                 "open_issues": 81,
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2695,
+                "stars": 2694,
                 "topics": [
                   "foundation-models",
                   "representation-learning",
@@ -271,7 +271,7 @@
                 "open_issues": 81,
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2695,
+                "stars": 2694,
                 "topics": [
                   "foundation-models",
                   "representation-learning",
@@ -2059,7 +2059,7 @@
                 "open_issues": 73,
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11301,
+                "stars": 11300,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -2851,7 +2851,7 @@
                 "open_issues": 51,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1797,
+                "stars": 1798,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -2885,7 +2885,7 @@
                 "open_issues": 51,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1797,
+                "stars": 1798,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -4360,7 +4360,7 @@
                 "open_issues": 7,
                 "owner": "LirongWu",
                 "repo": "MAPE-PPI",
-                "stars": 264,
+                "stars": 263,
                 "topics": [
                   "codebook",
                   "masked-modeling",
@@ -4423,7 +4423,7 @@
                 "open_issues": 9,
                 "owner": "junxia97",
                 "repo": "Mole-BERT",
-                "stars": 137,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4710,7 +4710,7 @@
                 "open_issues": 2,
                 "owner": "jason718",
                 "repo": "awesome-self-supervised-learning",
-                "stars": 6430,
+                "stars": 6431,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -5066,7 +5066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:09:43.196Z",
+    "last_updated": "2026-10-04T19:29:51.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
