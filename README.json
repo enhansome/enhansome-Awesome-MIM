@@ -113,7 +113,7 @@
                 "open_issues": 136,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12732,
+                "stars": 12733,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -155,7 +155,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7429,
+                "stars": 7428,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -246,7 +246,7 @@
                 "open_issues": 81,
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2694,
+                "stars": 2693,
                 "topics": [
                   "foundation-models",
                   "representation-learning",
@@ -271,7 +271,7 @@
                 "open_issues": 81,
                 "owner": "baaivision",
                 "repo": "EVA",
-                "stars": 2694,
+                "stars": 2693,
                 "topics": [
                   "foundation-models",
                   "representation-learning",
@@ -429,7 +429,7 @@
                 "open_issues": 6,
                 "owner": "EPFL-VILAB",
                 "repo": "MultiMAE",
-                "stars": 640,
+                "stars": 639,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -1084,7 +1084,7 @@
                 "open_issues": 0,
                 "owner": "OliverRensu",
                 "repo": "D-iGPT",
-                "stars": 99,
+                "stars": 98,
                 "topics": [
                   "autoregressive",
                   "deep-learning",
@@ -1740,7 +1740,7 @@
                 "open_issues": 21,
                 "owner": "jackroos",
                 "repo": "VL-BERT",
-                "stars": 741,
+                "stars": 742,
                 "topics": [
                   "bert",
                   "iclr2020",
@@ -2059,7 +2059,7 @@
                 "open_issues": 73,
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11300,
+                "stars": 11299,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -2084,7 +2084,7 @@
                 "open_issues": 75,
                 "owner": "openai",
                 "repo": "DALL-E",
-                "stars": 10819,
+                "stars": 10820,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2294,7 +2294,7 @@
                 "open_issues": 20,
                 "owner": "csuhan",
                 "repo": "OneLLM",
-                "stars": 668,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2767,7 +2767,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7429,
+                "stars": 7428,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4934,8 +4934,8 @@
                 "id": 303705119,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T18:23:00Z",
-                "open_issues": 113,
+                "last_commit": "2026-10-05T23:53:10Z",
+                "open_issues": 114,
                 "owner": "lightly-ai",
                 "repo": "lightly",
                 "stars": 3816,
@@ -4969,7 +4969,7 @@
                 "open_issues": 81,
                 "owner": "facebookresearch",
                 "repo": "vissl",
-                "stars": 3290,
+                "stars": 3291,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4990,7 +4990,7 @@
                 "open_issues": 20,
                 "owner": "vturrisi",
                 "repo": "solo-learn",
-                "stars": 1578,
+                "stars": 1579,
                 "topics": [
                   "barlow-twins",
                   "byol",
@@ -5066,7 +5066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:31:01.115Z",
+    "last_updated": "2026-10-06T10:37:43.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
