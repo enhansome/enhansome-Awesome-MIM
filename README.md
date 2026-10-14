@@ -94,7 +94,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**<br>
   *Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby*<br>
   ICLR'2021 \[[Paper](https://arxiv.org/abs/2010.11929)]
-  \[[Code](https://github.com/google-research/vision_transformer) ⭐ 12,742 | 🐛 136 | 🌐 Jupyter Notebook | 📅 2026-10-01]
+  \[[Code](https://github.com/google-research/vision_transformer) ⭐ 12,744 | 🐛 136 | 🌐 Jupyter Notebook | 📅 2026-10-01]
    <details close>
    <summary>ViT Framework</summary>
    <p align="center"><img width="75%" src="https://user-images.githubusercontent.com/44519745/204301490-5673cc4c-93d1-435d-a266-ec5a0294bf3b.png" /></p>
@@ -283,7 +283,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Test-Time Training with Masked Autoencoders**<br>
   *Yossi Gandelsman, Yu Sun, Xinlei Chen, Alexei A. Efros*<br>
   NeurIPS'2022 \[[Paper](https://arxiv.org/abs/2209.07522)]
-  \[[Code](https://github.com/yossigandelsman/test_time_training_mae) ⭐ 98 | 🐛 1 | 🌐 Python | 📅 2023-11-12]
+  \[[Code](https://github.com/yossigandelsman/test_time_training_mae) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2023-11-12]
    <details close>
    <summary>TTT-MAE Framework</summary>
    <p align="center"><img width="85%" src="https://user-images.githubusercontent.com/44519745/204306169-63fd5383-ee33-47f0-a955-971cfbd150ae.png" /></p>
@@ -1203,7 +1203,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**<br>
   *Peize Sun, Yi Jiang, Shoufa Chen, Shilong Zhang, Bingyue Peng, Ping Luo, Zehuan Yuan*<br>
   ArXiv'2024 \[[Paper](https://arxiv.org/abs/2406.06525)]
-  \[[Code](https://github.com/FoundationVision/LlamaGen) ⭐ 1,969 | 🐛 73 | 🌐 Python | 📅 2024-08-15]
+  \[[Code](https://github.com/FoundationVision/LlamaGen) ⭐ 1,970 | 🐛 73 | 🌐 Python | 📅 2024-08-15]
 
 * **Generating Diverse High-Fidelity Images with VQ-VAE-2**<br>
   *Ali Razavi, Aaron van den Oord, Oriol Vinyals*<br>
@@ -1490,7 +1490,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**<br>
   *Zhan Tong, Yibing Song, Jue Wang, Limin Wang*<br>
   NeurIPS'2022 \[[Paper](https://arxiv.org/abs/2203.12602)]
-  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,800 | 🐛 51 | 🌐 Python | 📅 2023-12-08]
+  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,801 | 🐛 51 | 🌐 Python | 📅 2023-12-08]
    <details close>
    <summary>VideoMAE Framework</summary>
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/44519745/207724710-e4093d2e-8d6c-40b9-bf7d-ab519eb97dd2.png" /></p>
@@ -1499,7 +1499,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking**<br>
   *Limin Wang, Bingkun Huang, Zhiyu Zhao, Zhan Tong, Yinan He, Yi Wang, Yali Wang, Yu Qiao*<br>
   CVPR'2023 \[[Paper](https://arxiv.org/abs/2303.16727)]
-  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,800 | 🐛 51 | 🌐 Python | 📅 2023-12-08]
+  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,801 | 🐛 51 | 🌐 Python | 📅 2023-12-08]
    <details close>
    <summary>VideoMAE.V2 Framework</summary>
    <p align="center"><img width="85%" src="https://user-images.githubusercontent.com/44519745/231277665-7027e34b-7b2c-4306-ac73-7be08b176f09.png" /></p>
@@ -1508,7 +1508,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **VideoGPT: Video Generation using VQ-VAE and Transformers**<br>
   *Wilson Yan, Yunzhi Zhang, Pieter Abbeel, Aravind Srinivas*<br>
   arXiv'2021 \[[Paper](https://arxiv.org/abs/2104.10157)]
-  \[[Code](https://github.com/wilson1yan/VideoGPT) ⭐ 1,085 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-09-18]
+  \[[Code](https://github.com/wilson1yan/VideoGPT) ⭐ 1,086 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-09-18]
    <details close>
    <summary>VideoGPT Framework</summary>
    <p align="center"><img width="70%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44519745/260848752-da40d950-5154-4ba1-8702-9dcd448a83bc.png" /></p>
@@ -1906,7 +1906,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**<br>
   *Haoyi Zhu, Honghui Yang, Xiaoyang Wu, Di Huang, Sha Zhang, Xianglong He, Tong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao, Wanli Ouyang*<br>
   ArXiv'2023 \[[Paper](https://arxiv.org/abs/2310.08586)]
-  \[[Code](https://github.com/Pointcept/Pointcept) ⭐ 3,255 | 🐛 367 | 🌐 Python | 📅 2026-09-11]
+  \[[Code](https://github.com/Pointcept/Pointcept) ⭐ 3,258 | 🐛 367 | 🌐 Python | 📅 2026-09-11]
 
 * **VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion**<br>
   *Yiming Li, Zhiding Yu, Christopher Choy, Chaowei Xiao, Jose M. Alvarez, Sanja Fidler, Chen Feng, Anima Anandkumar*<br>
@@ -1972,7 +1972,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **General Point Model with Autoencoding and Autoregressive**<br>
   *Zhe Li, Zhangyang Gao, Cheng Tan, Bocheng Ren, Laurence Tianruo Yang, Stan Z. Li*<br>
   CVPR'2024 \[[Paper](https://arxiv.org/abs/2310.16861)]
-  \[[Code](https://github.com/gentlefress/GPM) ⭐ 5 | 🐛 2 | 📅 2024-03-05]
+  \[[Code](https://github.com/gentlefress/GPM) ⭐ 5 | 🐛 3 | 📅 2024-03-05]
 
 * **MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis**<br>
   *Yaqian Liang, Shanshan Zhao, Baosheng Yu, Jing Zhang, Fazhi He*<br>
@@ -2105,7 +2105,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Foldseek: fast and accurate protein structure search**<br>
   *Michel van Kempen, Stephanie S. Kim, Charlotte Tumescheit, Milot Mirdita, Johannes Söding, Martin Steinegger*<br>
   Nature'2023 \[[Paper](https://www.biorxiv.org/content/10.1101/2022.02.07.479398v2)]
-  \[[Code](https://github.com/steineggerlab/foldseek) ⭐ 1,307 | 🐛 189 | 🌐 C | 📅 2026-09-09]
+  \[[Code](https://github.com/steineggerlab/foldseek) ⭐ 1,308 | 🐛 189 | 🌐 C | 📅 2026-09-09]
 
 * **SaProt: Protein Language Modeling with Structure-aware Vocabulary**<br>
   *Jin Su, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan*<br>
@@ -2160,7 +2160,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters**<br>
   *Mouxiang Chen, Lefei Shen, Zhuo Li, Xiaoyun Joy Wang, Jianling Sun, Chenghao Liu*<br>
   ArXiv'2024 \[[Paper](https://arxiv.org/abs/2408.17253)]
-  \[[Code](https://github.com/keytoyze/visionts) ⭐ 286 | 🐛 2 | 🌐 Python | 📅 2025-08-13]
+  \[[Code](https://github.com/keytoyze/visionts) ⭐ 287 | 🐛 2 | 🌐 Python | 📅 2025-08-13]
 
 * **Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data**<br>
   *Antonis Antoniades, Yiyi Yu, Joseph Canzano, William Wang, Spencer LaVere Smith*<br>
@@ -2345,7 +2345,7 @@ If you find this repository and our survey helpful, please consider citing our p
 * [Fairseq](https://github.com/facebookresearch/fairseq) ⚠️ Archived: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 * [unilm](https://github.com/microsoft/unilm) ⭐ 22,234 | 🐛 689 | 🌐 Python | 📅 2026-09-21: Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
 * [MMPretrain](https://github.com/open-mmlab/mmpretrain) ⭐ 3,861 | 🐛 274 | 🌐 Python | 📅 2024-11-01: OpenMMLab self-supervised pre-training toolbox and benchmark.
-* [lightly](https://github.com/lightly-ai/lightly) ⭐ 3,821 | 🐛 113 | 🌐 Python | 📅 2026-10-07: A python library for self-supervised learning on images.
+* [lightly](https://github.com/lightly-ai/lightly) ⭐ 3,821 | 🐛 116 | 🌐 Python | 📅 2026-10-07: A python library for self-supervised learning on images.
 * [VISSL](https://github.com/facebookresearch/vissl) ⚠️ Archived: FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 * [solo-learn](https://github.com/vturrisi/solo-learn) ⭐ 1,580 | 🐛 20 | 🌐 Python | 📅 2026-10-12: A library of self-supervised methods for visual representation learning powered by Pytorch Lightning.
 * [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 656 | 🐛 7 | 🌐 Python | 📅 2025-10-15: CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark.
@@ -2354,4 +2354,4 @@ If you find this repository and our survey helpful, please consider citing our p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
