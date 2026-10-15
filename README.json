@@ -21,7 +21,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32214,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -46,7 +46,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32214,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -71,7 +71,7 @@
                 "open_issues": 689,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22234,
+                "stars": 22237,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -113,7 +113,7 @@
                 "open_issues": 136,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12744,
+                "stars": 12745,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -134,7 +134,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8362,
+                "stars": 8361,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -296,7 +296,7 @@
                 "open_issues": 12,
                 "owner": "openai",
                 "repo": "image-gpt",
-                "stars": 2094,
+                "stars": 2093,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -389,7 +389,7 @@
                 "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 656,
+                "stars": 655,
                 "topics": [
                   "automix",
                   "awesome-list",
@@ -1302,7 +1302,7 @@
                 "open_issues": 16,
                 "owner": "keyu-tian",
                 "repo": "SparK",
-                "stars": 1381,
+                "stars": 1382,
                 "topics": [
                   "bert",
                   "cnn",
@@ -1376,7 +1376,7 @@
                 "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 656,
+                "stars": 655,
                 "topics": [
                   "automix",
                   "awesome-list",
@@ -1669,7 +1669,7 @@
                 "open_issues": 689,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22234,
+                "stars": 22237,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -2102,10 +2102,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2024-07-30T18:27:31Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "CompVis",
                 "repo": "taming-transformers",
-                "stars": 6533,
+                "stars": 6532,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2147,7 +2147,7 @@
                 "open_issues": 12,
                 "owner": "openai",
                 "repo": "image-gpt",
-                "stars": 2094,
+                "stars": 2093,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2168,7 +2168,7 @@
                 "open_issues": 73,
                 "owner": "FoundationVision",
                 "repo": "LlamaGen",
-                "stars": 1970,
+                "stars": 1971,
                 "topics": [
                   "auto-regressive-model",
                   "diffusion",
@@ -2197,7 +2197,7 @@
                 "open_issues": 48,
                 "owner": "rosinality",
                 "repo": "vq-vae-2-pytorch",
-                "stars": 1805,
+                "stars": 1806,
                 "topics": [
                   "vq-vae",
                   "vq-vae-2"
@@ -2273,7 +2273,7 @@
                 "open_issues": 27,
                 "owner": "LTH14",
                 "repo": "rcg",
-                "stars": 938,
+                "stars": 937,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2294,7 +2294,7 @@
                 "open_issues": 20,
                 "owner": "csuhan",
                 "repo": "OneLLM",
-                "stars": 668,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2462,7 +2462,7 @@
                 "open_issues": 3,
                 "owner": "haoliuhl",
                 "repo": "language-quantized-autoencoders",
-                "stars": 115,
+                "stars": 114,
                 "topics": [
                   "autoencoders",
                   "bert",
@@ -2596,7 +2596,7 @@
                 "open_issues": 54,
                 "owner": "yformer",
                 "repo": "EfficientSAM",
-                "stars": 2499,
+                "stars": 2498,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2851,7 +2851,7 @@
                 "open_issues": 51,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1801,
+                "stars": 1802,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -2885,7 +2885,7 @@
                 "open_issues": 51,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1801,
+                "stars": 1802,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -2919,7 +2919,7 @@
                 "open_issues": 15,
                 "owner": "wilson1yan",
                 "repo": "VideoGPT",
-                "stars": 1086,
+                "stars": 1087,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2986,7 +2986,7 @@
                 "open_issues": 6,
                 "owner": "LinghaoChan",
                 "repo": "HumanMAC",
-                "stars": 327,
+                "stars": 328,
                 "topics": [
                   "diffusion-models",
                   "diversity",
@@ -3503,7 +3503,7 @@
                 "open_issues": 689,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22234,
+                "stars": 22237,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3580,7 +3580,7 @@
                 "open_issues": 367,
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3258,
+                "stars": 3260,
                 "topics": [
                   "3d-vision",
                   "point-cloud",
@@ -4003,7 +4003,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32214,
+            "stars": 32212,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4028,7 +4028,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32214,
+            "stars": 32212,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4053,7 +4053,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32214,
+            "stars": 32212,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4078,7 +4078,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32214,
+            "stars": 32212,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4279,7 +4279,7 @@
                 "open_issues": 189,
                 "owner": "steineggerlab",
                 "repo": "foldseek",
-                "stars": 1308,
+                "stars": 1312,
                 "topics": [
                   "alignments",
                   "bioinformatics",
@@ -4305,7 +4305,7 @@
                 "open_issues": 26,
                 "owner": "westlake-repl",
                 "repo": "SaProt",
-                "stars": 638,
+                "stars": 639,
                 "topics": [
                   "alphafold2",
                   "foldseek",
@@ -4764,7 +4764,7 @@
                 "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 656,
+                "stars": 655,
                 "topics": [
                   "automix",
                   "awesome-list",
@@ -4832,7 +4832,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32214,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -4857,7 +4857,7 @@
                 "open_issues": 689,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22234,
+                "stars": 22237,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -4934,8 +4934,8 @@
                 "id": 303705119,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-07T19:30:07Z",
-                "open_issues": 116,
+                "last_commit": "2026-10-15T11:33:55Z",
+                "open_issues": 115,
                 "owner": "lightly-ai",
                 "repo": "lightly",
                 "stars": 3821,
@@ -5032,7 +5032,7 @@
                 "open_issues": 7,
                 "owner": "Westlake-AI",
                 "repo": "openmixup",
-                "stars": 656,
+                "stars": 655,
                 "topics": [
                   "automix",
                   "awesome-list",
@@ -5066,7 +5066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:08:11.970Z",
+    "last_updated": "2026-10-15T19:49:27.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
