@@ -112,7 +112,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Masked Feature Prediction for Self-Supervised Visual Pre-Training**<br>
   *Chen Wei, Haoqi Fan, Saining Xie, Chao-Yuan Wu, Alan Yuille, Christoph Feichtenhofer*<br>
   CVPR'2022 \[[Paper](https://arxiv.org/abs/2112.09133)]
-  \[[Code](https://github.com/facebookresearch/SlowFast) ⭐ 7,433 | 🐛 445 | 🌐 Python | 📅 2026-03-16]
+  \[[Code](https://github.com/facebookresearch/SlowFast) ⭐ 7,434 | 🐛 445 | 🌐 Python | 📅 2026-03-16]
    <details close>
    <summary>MaskFeat Framework</summary>
    <p align="center"><img width="60%" src="https://user-images.githubusercontent.com/44519745/204302699-10f1f1d4-2bb4-428a-b43b-2972ba915286.png" /></p>
@@ -1077,7 +1077,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Images Speak in Images: A Generalist Painter for In-Context Visual Learning**<br>
   *Xinlong Wang, Wen Wang, Yue Cao, Chunhua Shen, Tiejun Huang*<br>
   CVPR'2023 \[[Paper](https://arxiv.org/abs/2212.02499)]
-  \[[Code](https://github.com/baaivision/Painter) ⭐ 2,600 | 🐛 60 | 🌐 Python | 📅 2024-12-06]
+  \[[Code](https://github.com/baaivision/Painter) ⭐ 2,599 | 🐛 60 | 🌐 Python | 📅 2024-12-06]
    <details close>
    <summary>Painter Framework</summary>
    <p align="center"><img width="90%" src="https://github.com/Lupin1998/Awesome-MIM/assets/44519745/de7240fd-f04c-411f-9ae1-f2e4839236ee" /></p>
@@ -1203,7 +1203,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**<br>
   *Peize Sun, Yi Jiang, Shoufa Chen, Shilong Zhang, Bingyue Peng, Ping Luo, Zehuan Yuan*<br>
   ArXiv'2024 \[[Paper](https://arxiv.org/abs/2406.06525)]
-  \[[Code](https://github.com/FoundationVision/LlamaGen) ⭐ 1,972 | 🐛 73 | 🌐 Python | 📅 2024-08-15]
+  \[[Code](https://github.com/FoundationVision/LlamaGen) ⭐ 1,973 | 🐛 73 | 🌐 Python | 📅 2024-08-15]
 
 * **Generating Diverse High-Fidelity Images with VQ-VAE-2**<br>
   *Ali Razavi, Aaron van den Oord, Oriol Vinyals*<br>
@@ -1454,7 +1454,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Masked Autoencoders As Spatiotemporal Learners**<br>
   *Christoph Feichtenhofer, Haoqi Fan, Yanghao Li, Kaiming He*<br>
   NeurIPS'2022 \[[Paper](https://arxiv.org/abs/2205.09113)]
-  \[[Code](https://github.com/facebookresearch/SlowFast) ⭐ 7,433 | 🐛 445 | 🌐 Python | 📅 2026-03-16]
+  \[[Code](https://github.com/facebookresearch/SlowFast) ⭐ 7,434 | 🐛 445 | 🌐 Python | 📅 2026-03-16]
    <details close>
    <summary>MAE Framework</summary>
    <p align="center"><img width="75%" src="https://user-images.githubusercontent.com/44519745/207725088-8bccb8df-a9c8-4ba6-b7cd-5f259c0959c1.png" /></p>
@@ -1490,7 +1490,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**<br>
   *Zhan Tong, Yibing Song, Jue Wang, Limin Wang*<br>
   NeurIPS'2022 \[[Paper](https://arxiv.org/abs/2203.12602)]
-  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,802 | 🐛 51 | 🌐 Python | 📅 2023-12-08]
+  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,802 | 🐛 52 | 🌐 Python | 📅 2023-12-08]
    <details close>
    <summary>VideoMAE Framework</summary>
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/44519745/207724710-e4093d2e-8d6c-40b9-bf7d-ab519eb97dd2.png" /></p>
@@ -1499,7 +1499,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking**<br>
   *Limin Wang, Bingkun Huang, Zhiyu Zhao, Zhan Tong, Yinan He, Yi Wang, Yali Wang, Yu Qiao*<br>
   CVPR'2023 \[[Paper](https://arxiv.org/abs/2303.16727)]
-  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,802 | 🐛 51 | 🌐 Python | 📅 2023-12-08]
+  \[[Code](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,802 | 🐛 52 | 🌐 Python | 📅 2023-12-08]
    <details close>
    <summary>VideoMAE.V2 Framework</summary>
    <p align="center"><img width="85%" src="https://user-images.githubusercontent.com/44519745/231277665-7027e34b-7b2c-4306-ac73-7be08b176f09.png" /></p>
@@ -2335,7 +2335,7 @@ If you find this repository and our survey helpful, please consider citing our p
 
 ### Paper List of Masked Image Modeling
 
-* [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,436 | 🐛 2 | 📅 2026-02-24: A curated list of awesome self-supervised methods.
+* [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,435 | 🐛 3 | 📅 2026-02-24: A curated list of awesome self-supervised methods.
 * [Awesome-Masked-Autoencoders](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders) ⭐ 870 | 🐛 1 | 📅 2024-07-10: A collection of literature after or concurrent with Masked Autoencoder (MAE).
 * [Awesome-MIM](https://github.com/Westlake-AI/openmixup/blob/main/docs/en/awesome_selfsup/MIM.md) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15: Awesome list of masked image modeling methods for self-supervised visual representation.
 * [awesome-MIM](https://github.com/ucasligang/awesome-MIM) ⭐ 333 | 🐛 0 | 📅 2024-12-03: Reading list for research topics in Masked Image Modeling.
@@ -2354,4 +2354,4 @@ If you find this repository and our survey helpful, please consider citing our p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
