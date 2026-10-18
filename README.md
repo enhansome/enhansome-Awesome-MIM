@@ -980,7 +980,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **MultiModal-GPT: A Vision and Language Model for Dialogue with Humans**<br>
   *Tao Gong, Chengqi Lyu, Shilong Zhang, Yudong Wang, Miao Zheng, Qian Zhao, Kuikun Liu, Wenwei Zhang, Ping Luo, Kai Chen*<br>
   arXiv'2023 \[[Paper](https://arxiv.org/abs/2305.04790)]
-  \[[Code](https://github.com/open-mmlab/Multimodal-GPT) ⭐ 1,512 | 🐛 22 | 🌐 Python | 📅 2023-06-04]
+  \[[Code](https://github.com/open-mmlab/Multimodal-GPT) ⭐ 1,511 | 🐛 22 | 🌐 Python | 📅 2023-06-04]
    <details close>
    <summary>MultiModal-GPT Framework</summary>
    <p align="center"><img width="75%" src="https://github.com/Lupin1998/Awesome-MIM/assets/44519745/a492f540-e287-4c2a-8879-7812cd2b2767" /></p>
@@ -1399,7 +1399,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Integrally Pre-Trained Transformer Pyramid Networks**<br>
   *Yunjie Tian, Lingxi Xie, Zhaozhi Wang, Longhui Wei, Xiaopeng Zhang, Jianbin Jiao, Yaowei Wang, Qi Tian, Qixiang Ye*<br>
   CVPR'2023 \[[Paper](https://arxiv.org/abs/2211.12735)]
-  \[[Code](https://github.com/sunsmarterjie/iTPN) ⭐ 218 | 🐛 13 | 🌐 Python | 📅 2024-07-28]
+  \[[Code](https://github.com/sunsmarterjie/iTPN) ⭐ 219 | 🐛 13 | 🌐 Python | 📅 2024-07-28]
    <details close>
    <summary>iTPN Framework</summary>
    <p align="center"><img width="90%" src="https://user-images.githubusercontent.com/44519745/231279943-851af288-fe43-44ba-aa85-3ca6ee72a247.png" /></p>
@@ -2105,7 +2105,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Foldseek: fast and accurate protein structure search**<br>
   *Michel van Kempen, Stephanie S. Kim, Charlotte Tumescheit, Milot Mirdita, Johannes Söding, Martin Steinegger*<br>
   Nature'2023 \[[Paper](https://www.biorxiv.org/content/10.1101/2022.02.07.479398v2)]
-  \[[Code](https://github.com/steineggerlab/foldseek) ⭐ 1,313 | 🐛 189 | 🌐 C | 📅 2026-09-09]
+  \[[Code](https://github.com/steineggerlab/foldseek) ⭐ 1,315 | 🐛 189 | 🌐 C | 📅 2026-09-09]
 
 * **SaProt: Protein Language Modeling with Structure-aware Vocabulary**<br>
   *Jin Su, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan*<br>
@@ -2165,7 +2165,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data**<br>
   *Antonis Antoniades, Yiyi Yu, Joseph Canzano, William Wang, Spencer LaVere Smith*<br>
   ICLR'2024 \[[Paper](https://arxiv.org/abs/2311.00136)]
-  \[[Code](https://github.com/woanderer/Neuroformer) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2025-03-15]
+  \[[Code](https://github.com/woanderer/Neuroformer) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2025-03-15]
    <details close>
    <summary>Neuroformer</summary>
    <p align="center"><img width="75%" src="https://github.com/Lupin1998/Awesome-MIM/assets/44519745/14e4d77e-f58a-4db6-ab6d-5de8da5d2a87" /></p>
@@ -2335,7 +2335,7 @@ If you find this repository and our survey helpful, please consider citing our p
 
 ### Paper List of Masked Image Modeling
 
-* [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,435 | 🐛 3 | 📅 2026-02-24: A curated list of awesome self-supervised methods.
+* [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,434 | 🐛 3 | 📅 2026-02-24: A curated list of awesome self-supervised methods.
 * [Awesome-Masked-Autoencoders](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders) ⭐ 870 | 🐛 1 | 📅 2024-07-10: A collection of literature after or concurrent with Masked Autoencoder (MAE).
 * [Awesome-MIM](https://github.com/Westlake-AI/openmixup/blob/main/docs/en/awesome_selfsup/MIM.md) ⭐ 655 | 🐛 7 | 🌐 Python | 📅 2025-10-15: Awesome list of masked image modeling methods for self-supervised visual representation.
 * [awesome-MIM](https://github.com/ucasligang/awesome-MIM) ⭐ 333 | 🐛 0 | 📅 2024-12-03: Reading list for research topics in Masked Image Modeling.
@@ -2354,4 +2354,4 @@ If you find this repository and our survey helpful, please consider citing our p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

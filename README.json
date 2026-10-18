@@ -1711,7 +1711,7 @@
                 "open_issues": 22,
                 "owner": "open-mmlab",
                 "repo": "Multimodal-GPT",
-                "stars": 1512,
+                "stars": 1511,
                 "topics": [
                   "flamingo",
                   "gpt",
@@ -2357,7 +2357,7 @@
                 "open_issues": 12,
                 "owner": "google-research",
                 "repo": "maskgit",
-                "stars": 559,
+                "stars": 560,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2646,7 +2646,7 @@
                 "open_issues": 13,
                 "owner": "sunsmarterjie",
                 "repo": "iTPN",
-                "stars": 218,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4279,7 +4279,7 @@
                 "open_issues": 189,
                 "owner": "steineggerlab",
                 "repo": "foldseek",
-                "stars": 1313,
+                "stars": 1315,
                 "topics": [
                   "alignments",
                   "bioinformatics",
@@ -4529,7 +4529,7 @@
             "open_issues": 1,
             "owner": "a-antoniades",
             "repo": "Neuroformer",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4710,7 +4710,7 @@
                 "open_issues": 3,
                 "owner": "jason718",
                 "repo": "awesome-self-supervised-learning",
-                "stars": 6435,
+                "stars": 6434,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -5066,7 +5066,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:22:27.832Z",
+    "last_updated": "2026-10-18T18:34:22.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
