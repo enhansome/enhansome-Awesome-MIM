@@ -980,7 +980,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **MultiModal-GPT: A Vision and Language Model for Dialogue with Humans**<br>
   *Tao Gong, Chengqi Lyu, Shilong Zhang, Yudong Wang, Miao Zheng, Qian Zhao, Kuikun Liu, Wenwei Zhang, Ping Luo, Kai Chen*<br>
   arXiv'2023 \[[Paper](https://arxiv.org/abs/2305.04790)]
-  \[[Code](https://github.com/open-mmlab/Multimodal-GPT) ⭐ 1,513 | 🐛 22 | 🌐 Python | 📅 2023-06-04]
+  \[[Code](https://github.com/open-mmlab/Multimodal-GPT) ⭐ 1,515 | 🐛 22 | 🌐 Python | 📅 2023-06-04]
    <details close>
    <summary>MultiModal-GPT Framework</summary>
    <p align="center"><img width="75%" src="https://github.com/Lupin1998/Awesome-MIM/assets/44519745/a492f540-e287-4c2a-8879-7812cd2b2767" /></p>
@@ -1077,7 +1077,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Images Speak in Images: A Generalist Painter for In-Context Visual Learning**<br>
   *Xinlong Wang, Wen Wang, Yue Cao, Chunhua Shen, Tiejun Huang*<br>
   CVPR'2023 \[[Paper](https://arxiv.org/abs/2212.02499)]
-  \[[Code](https://github.com/baaivision/Painter) ⭐ 2,599 | 🐛 60 | 🌐 Python | 📅 2024-12-06]
+  \[[Code](https://github.com/baaivision/Painter) ⭐ 2,597 | 🐛 60 | 🌐 Python | 📅 2024-12-06]
    <details close>
    <summary>Painter Framework</summary>
    <p align="center"><img width="90%" src="https://github.com/Lupin1998/Awesome-MIM/assets/44519745/de7240fd-f04c-411f-9ae1-f2e4839236ee" /></p>
@@ -1164,7 +1164,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **Vector-quantized Image Modeling with Improved VQGAN**<br>
   *Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu*<br>
   ICLR'2022 \[[Paper](https://arxiv.org/abs/2110.04627)]
-  \[[Code](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,303 | 🐛 73 | 🌐 Python | 📅 2024-05-11]
+  \[[Code](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,302 | 🐛 73 | 🌐 Python | 📅 2024-05-11]
    <details close>
    <summary>ViT-VQGAN Framework</summary>
    <p align="center"><img width="90%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44519745/260846200-0a7fd6e6-170a-435d-9f7b-a020bde64bc5.png" /></p>
@@ -1224,12 +1224,12 @@ The overview of the basic MIM framework, containing four building blocks with th
   *Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu*<br>
   NeurIPS'2017
   \[[Paper](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf)]
-  \[[Code](https://github.com/ritheshkumar95/pytorch-vqvae) ⭐ 955 | 🐛 9 | 🌐 Python | 📅 2023-07-12]
+  \[[Code](https://github.com/ritheshkumar95/pytorch-vqvae) ⭐ 956 | 🐛 9 | 🌐 Python | 📅 2023-07-12]
 
 * **Self-conditioned Image Generation via Generating Representations**<br>
   *Tianhong Li, Dina Katabi, Kaiming He*<br>
   ArXiv'2023 \[[Paper](https://arxiv.org/abs/2312.03701)]
-  \[[Code](https://github.com/LTH14/rcg) ⭐ 936 | 🐛 27 | 🌐 Python | 📅 2024-09-27]
+  \[[Code](https://github.com/LTH14/rcg) ⭐ 937 | 🐛 27 | 🌐 Python | 📅 2024-09-27]
    <details close>
    <summary>RCG Framework</summary>
    <p align="center"><img width="85%" src="https://github.com/Lupin1998/Awesome-MIM/assets/44519745/88f210d7-2cba-456d-8ab2-3a807c153ea3" /></p>
@@ -1906,7 +1906,7 @@ The overview of the basic MIM framework, containing four building blocks with th
 * **PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**<br>
   *Haoyi Zhu, Honghui Yang, Xiaoyang Wu, Di Huang, Sha Zhang, Xianglong He, Tong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao, Wanli Ouyang*<br>
   ArXiv'2023 \[[Paper](https://arxiv.org/abs/2310.08586)]
-  \[[Code](https://github.com/Pointcept/Pointcept) ⭐ 3,303 | 🐛 371 | 🌐 Python | 📅 2026-11-03]
+  \[[Code](https://github.com/Pointcept/Pointcept) ⭐ 3,304 | 🐛 371 | 🌐 Python | 📅 2026-11-03]
 
 * **VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion**<br>
   *Yiming Li, Zhiding Yu, Christopher Choy, Chaowei Xiao, Jose M. Alvarez, Sanja Fidler, Chen Feng, Anima Anandkumar*<br>
@@ -2345,7 +2345,7 @@ If you find this repository and our survey helpful, please consider citing our p
 * [Fairseq](https://github.com/facebookresearch/fairseq) ⚠️ Archived: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 * [unilm](https://github.com/microsoft/unilm) ⭐ 22,242 | 🐛 691 | 🌐 Python | 📅 2026-09-21: Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
 * [MMPretrain](https://github.com/open-mmlab/mmpretrain) ⭐ 3,863 | 🐛 273 | 🌐 Python | 📅 2024-11-01: OpenMMLab self-supervised pre-training toolbox and benchmark.
-* [lightly](https://github.com/lightly-ai/lightly) ⭐ 3,831 | 🐛 108 | 🌐 Python | 📅 2026-11-10: A python library for self-supervised learning on images.
+* [lightly](https://github.com/lightly-ai/lightly) ⭐ 3,831 | 🐛 109 | 🌐 Python | 📅 2026-11-10: A python library for self-supervised learning on images.
 * [VISSL](https://github.com/facebookresearch/vissl) ⚠️ Archived: FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 * [solo-learn](https://github.com/vturrisi/solo-learn) ⭐ 1,582 | 🐛 22 | 🌐 Python | 📅 2026-10-12: A library of self-supervised methods for visual representation learning powered by Pytorch Lightning.
 * [OpenMixup](https://github.com/Westlake-AI/openmixup) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2025-10-15: CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark.
@@ -2354,4 +2354,4 @@ If you find this repository and our survey helpful, please consider citing our p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
