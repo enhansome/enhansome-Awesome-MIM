@@ -21,7 +21,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32206,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -46,7 +46,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32206,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -71,7 +71,7 @@
                 "open_issues": 692,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22247,
+                "stars": 22248,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -113,7 +113,7 @@
                 "open_issues": 138,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12778,
+                "stars": 12779,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -155,7 +155,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7446,
+                "stars": 7447,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -1669,7 +1669,7 @@
                 "open_issues": 692,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22247,
+                "stars": 22248,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -2059,7 +2059,7 @@
                 "open_issues": 73,
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11303,
+                "stars": 11302,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -2168,7 +2168,7 @@
                 "open_issues": 73,
                 "owner": "FoundationVision",
                 "repo": "LlamaGen",
-                "stars": 1974,
+                "stars": 1972,
                 "topics": [
                   "auto-regressive-model",
                   "diffusion",
@@ -2197,7 +2197,7 @@
                 "open_issues": 48,
                 "owner": "rosinality",
                 "repo": "vq-vae-2-pytorch",
-                "stars": 1807,
+                "stars": 1808,
                 "topics": [
                   "vq-vae",
                   "vq-vae-2"
@@ -2767,7 +2767,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7446,
+                "stars": 7447,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -3503,7 +3503,7 @@
                 "open_issues": 692,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22247,
+                "stars": 22248,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3580,7 +3580,7 @@
                 "open_issues": 371,
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3310,
+                "stars": 3311,
                 "topics": [
                   "3d-vision",
                   "point-cloud",
@@ -4003,7 +4003,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32204,
+            "stars": 32206,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4028,7 +4028,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32204,
+            "stars": 32206,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4053,7 +4053,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32204,
+            "stars": 32206,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4078,7 +4078,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32204,
+            "stars": 32206,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4161,20 +4161,20 @@
             {
               "node_type": "item",
               "title": "Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences Alexander Rives, Joshua Meier, Tom Sercu, Siddharth Goyal, Zeming Lin, Jason Liu, Demi Guo, Myle Ott, C. Lawrence Zitnick, Jerry Ma, Rob Fergus PNAS'2020 [Paper",
-              "description": "facebookresearch/esm",
+              "description": "Biohub/esm-archive",
               "children": [],
               "repo_info": {
                 "archived": true,
                 "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
-                "homepage": null,
+                "homepage": "https://biohub.github.io/esm-archive/",
                 "id": 291783502,
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-02-07T03:31:38Z",
                 "open_issues": 115,
-                "owner": "facebookresearch",
-                "repo": "esm",
-                "stars": 4176,
+                "owner": "Biohub",
+                "repo": "esm-archive",
+                "stars": 4175,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4182,20 +4182,20 @@
             {
               "node_type": "item",
               "title": "Transformer protein language models are unsupervised structure learners Roshan Rao, Joshua Meier, Tom Sercu, Sergey Ovchinnikov, Alexander Rives bioRxiv'2020 [Paper",
-              "description": "facebookresearch/esm",
+              "description": "Biohub/esm-archive",
               "children": [],
               "repo_info": {
                 "archived": true,
                 "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
-                "homepage": null,
+                "homepage": "https://biohub.github.io/esm-archive/",
                 "id": 291783502,
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-02-07T03:31:38Z",
                 "open_issues": 115,
-                "owner": "facebookresearch",
-                "repo": "esm",
-                "stars": 4176,
+                "owner": "Biohub",
+                "repo": "esm-archive",
+                "stars": 4175,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4203,20 +4203,20 @@
             {
               "node_type": "item",
               "title": "Language models enable zero-shot prediction of the effects of mutations on protein function Joshua Meier, Roshan Rao, Robert Verkuil, Jason Liu, Tom Sercu, Alexander Rives bioRxiv'2021 [Paper",
-              "description": "facebookresearch/esm",
+              "description": "Biohub/esm-archive",
               "children": [],
               "repo_info": {
                 "archived": true,
                 "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
-                "homepage": null,
+                "homepage": "https://biohub.github.io/esm-archive/",
                 "id": 291783502,
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-02-07T03:31:38Z",
                 "open_issues": 115,
-                "owner": "facebookresearch",
-                "repo": "esm",
-                "stars": 4176,
+                "owner": "Biohub",
+                "repo": "esm-archive",
+                "stars": 4175,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4224,20 +4224,20 @@
             {
               "node_type": "item",
               "title": "Learning inverse folding from millions of predicted structures Chloe Hsu, Robert Verkuil, Jason Liu, Zeming Lin, Brian Hie, Tom Sercu, Adam Lerer, Alexander Rives ICML'2022 [Paper",
-              "description": "facebookresearch/esm",
+              "description": "Biohub/esm-archive",
               "children": [],
               "repo_info": {
                 "archived": true,
                 "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
-                "homepage": null,
+                "homepage": "https://biohub.github.io/esm-archive/",
                 "id": 291783502,
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-02-07T03:31:38Z",
                 "open_issues": 115,
-                "owner": "facebookresearch",
-                "repo": "esm",
-                "stars": 4176,
+                "owner": "Biohub",
+                "repo": "esm-archive",
+                "stars": 4175,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4245,20 +4245,20 @@
             {
               "node_type": "item",
               "title": "Evolutionary-scale prediction of atomic level protein structure with a language model Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita Smetanin, Robert Verkuil, Ori Kabeli, Yaniv Shmueli, Allan dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Salvatore Candido, Alexander Rives bioRxiv'2022 [Paper",
-              "description": "facebookresearch/esm",
+              "description": "Biohub/esm-archive",
               "children": [],
               "repo_info": {
                 "archived": true,
                 "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
-                "homepage": null,
+                "homepage": "https://biohub.github.io/esm-archive/",
                 "id": 291783502,
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-02-07T03:31:38Z",
                 "open_issues": 115,
-                "owner": "facebookresearch",
-                "repo": "esm",
-                "stars": 4176,
+                "owner": "Biohub",
+                "repo": "esm-archive",
+                "stars": 4175,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4276,10 +4276,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-18T09:08:22Z",
-                "open_issues": 192,
+                "open_issues": 193,
                 "owner": "steineggerlab",
                 "repo": "foldseek",
-                "stars": 1331,
+                "stars": 1332,
                 "topics": [
                   "alignments",
                   "bioinformatics",
@@ -4832,7 +4832,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32206,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -4857,7 +4857,7 @@
                 "open_issues": 692,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22247,
+                "stars": 22248,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -4935,7 +4935,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-10T21:23:00Z",
-                "open_issues": 110,
+                "open_issues": 112,
                 "owner": "lightly-ai",
                 "repo": "lightly",
                 "stars": 3833,
@@ -5069,7 +5069,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:59:37.526Z",
+    "last_updated": "2026-11-20T22:35:18.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
