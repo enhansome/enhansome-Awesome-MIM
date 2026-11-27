@@ -113,7 +113,7 @@
                 "open_issues": 138,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12785,
+                "stars": 12786,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -3580,7 +3580,7 @@
                 "open_issues": 370,
                 "owner": "Pointcept",
                 "repo": "Pointcept",
-                "stars": 3317,
+                "stars": 3319,
                 "topics": [
                   "3d-vision",
                   "point-cloud",
@@ -3605,7 +3605,7 @@
                 "open_issues": 38,
                 "owner": "NVlabs",
                 "repo": "VoxFormer",
-                "stars": 1212,
+                "stars": 1213,
                 "topics": [
                   "2d-to-3d",
                   "3d-perception",
@@ -4275,8 +4275,8 @@
                 "id": 166769317,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-26T14:39:36Z",
-                "open_issues": 196,
+                "last_commit": "2026-11-27T18:18:25Z",
+                "open_issues": 193,
                 "owner": "steineggerlab",
                 "repo": "foldseek",
                 "stars": 1333,
@@ -4710,7 +4710,7 @@
                 "open_issues": 3,
                 "owner": "jason718",
                 "repo": "awesome-self-supervised-learning",
-                "stars": 6448,
+                "stars": 6447,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -4935,7 +4935,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-25T20:52:23Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "lightly-ai",
                 "repo": "lightly",
                 "stars": 3835,
@@ -4972,7 +4972,7 @@
                 "open_issues": 81,
                 "owner": "facebookresearch",
                 "repo": "vissl",
-                "stars": 3287,
+                "stars": 3286,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -4993,7 +4993,7 @@
                 "open_issues": 22,
                 "owner": "vturrisi",
                 "repo": "solo-learn",
-                "stars": 1583,
+                "stars": 1584,
                 "topics": [
                   "barlow-twins",
                   "byol",
@@ -5069,7 +5069,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:29:38.705Z",
+    "last_updated": "2026-11-27T23:58:53.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
