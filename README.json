@@ -21,7 +21,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32206,
+                "stars": 32207,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -46,7 +46,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32206,
+                "stars": 32207,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -71,7 +71,7 @@
                 "open_issues": 691,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22252,
+                "stars": 22254,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -113,7 +113,7 @@
                 "open_issues": 138,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12783,
+                "stars": 12785,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -155,7 +155,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7451,
+                "stars": 7452,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -317,7 +317,7 @@
                 "open_issues": 31,
                 "owner": "facebookresearch",
                 "repo": "hiera",
-                "stars": 1077,
+                "stars": 1078,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -600,7 +600,7 @@
                 "open_issues": 11,
                 "owner": "wangsr126",
                 "repo": "MAE-Lite",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -1669,7 +1669,7 @@
                 "open_issues": 691,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22252,
+                "stars": 22254,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -2596,7 +2596,7 @@
                 "open_issues": 54,
                 "owner": "yformer",
                 "repo": "EfficientSAM",
-                "stars": 2503,
+                "stars": 2504,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -2767,7 +2767,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7451,
+                "stars": 7452,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:27.799Z"
@@ -3503,7 +3503,7 @@
                 "open_issues": 691,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22252,
+                "stars": 22254,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -3662,7 +3662,7 @@
                 "open_issues": 3,
                 "owner": "Pang-Yatian",
                 "repo": "Point-MAE",
-                "stars": 650,
+                "stars": 651,
                 "topics": [
                   "point-cloud",
                   "self-supervised-learning"
@@ -4003,7 +4003,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32206,
+            "stars": 32207,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4028,7 +4028,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32206,
+            "stars": 32207,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4053,7 +4053,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32206,
+            "stars": 32207,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4078,7 +4078,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32206,
+            "stars": 32207,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -4275,7 +4275,7 @@
                 "id": 166769317,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T09:08:22Z",
+                "last_commit": "2026-11-26T14:39:36Z",
                 "open_issues": 196,
                 "owner": "steineggerlab",
                 "repo": "foldseek",
@@ -4832,7 +4832,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32206,
+                "stars": 32207,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -4857,7 +4857,7 @@
                 "open_issues": 691,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22252,
+                "stars": 22254,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -4938,7 +4938,7 @@
                 "open_issues": 111,
                 "owner": "lightly-ai",
                 "repo": "lightly",
-                "stars": 3836,
+                "stars": 3835,
                 "topics": [
                   "computer-vision",
                   "contrastive-learning",
@@ -5069,7 +5069,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:08:45.326Z",
+    "last_updated": "2026-11-27T00:29:38.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Survey] Masked Modeling for Self-supervised Representation Learning on Vision and Beyond (https://arxiv.org/abs/2401.00897)",
